@@ -23,8 +23,7 @@ navbar-links:
   Home: "/"
   Members: "members"
   Publications: "publications"
-  Robot Demos: "demos"
-  Talks: "talks"
+  Talks: "demos"
   Robots: "robots"
   # About Me: "aboutme"
   # Resources:
