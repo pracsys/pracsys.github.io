@@ -16,7 +16,10 @@ members:
         full: true
         list:
           - name: Ewerton Vieira
-            photo_url: img/members/ewerton.jpg
+            photo_url: /img/members/ewerton.jpg
+            web_url: https://ewerton-vieira.github.io/
+          - name: Troy McMahon
+            photo_url: /img/members/ewerton.jpg
             web_url: https://ewerton-vieira.github.io/
       - name: PhD students
         full: true
@@ -35,7 +38,7 @@ members:
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Yinglong Miao
             photo_url: /img/members/yinglongm.jpg
-            web_url: https://www.linkedin.com/in/isidoros-marougkas
+            web_url: https://ylmiao541.github.io/index.html
           - name: Isidoros Marougkas
             photo_url: /img/members/ismarou.png
             web_url: https://www.linkedin.com/in/isidoros-marougkas
@@ -47,68 +50,80 @@ members:
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Noah Carver
             photo_url: /img/members/noahc.jpg
-            web_url: https://www.linkedin.com/in/isidoros-marougkas
+            web_url: https://noahrcarver.github.io/
   - name: <a name="alumni"></a>Alumni
     list:
       - name: PhD alumni
         full: False
         list:
-          - name: Rui Wang -> Post-doc with Nick Roy at MIT
-            web_url: https://siddancha.github.io/
-          - name: Jun Wang -> Post-doc with Pieter Abbeel at UC Berkeley
-            web_url: https://xingyu-lin.github.io/
-          - name: Bowen Wen (co-advised with Martial Hebert)
-            web_url: https://www.ri.cmu.edu/ri-people/brian-e-okorn/
+          - name: Rui Wang -> 
+          - name: Kun Wang -> 
+          - name: Bowen Wen (Fall 2018 - Spring 2022) -> Nvidia Research, Seattle, WA.
+                PhD Thesis: “Beyond Instance-level Reasoning in Object Pose Estimation and Tracking for Robotic Manipulation”
+          - name: Chaitanya Mitash  (Fall 2015 - Summer 2020) (co-advised with Abdeslam Boularias) -> Amazon Robotics, Boston, MA.
+		PhD Thesis: “Scalable, Physics-aware 6D Pose Estimation for Robot Manipulation”
+          - name: Rahul Shome (Fall 2013 - Spring 2020) ->  PostDoc at Rice University -> Faculty, Australian National University (ANU)
+		PhD thesis: “The Problem of Many: Efficient Multi-arm, Multi-object Task and Motion Planning with Optimality Guarantees”	
+          - name: Andrew Kimmel (Fall 2012 - Summer 2019) -> Amazon Robotics, Boston, MA.
+		All But Dissertation 
+          - name: Zachary Littlefield (Fall 2012 - Fall 2019), NASA STR Fellow -> Uber Robotics, Pittsburgh, PA -> Aurora 
+		PhD Thesis: “Efficient and Asymptotically Optimal Kinodynamic Motion Planning”
+          - name: Thanasis Krontiris (Fall 2012 - Summer 2017) -> Autonomous driving start-up “Auto X” , Palo Alto, CA -> Google
+		PhD Thesis: “Hierarchical Frameworks for Efficient Prehensile Rearrangement with a Robotic Manipulator”
+          - name: Andrew Dobson (Fall 2012 - Summer 2017), A DHS fellow -> PostDoc at University of Michigan, Ann Arbor -> State of CA.
+		PhD Thesis: “Compact Representations for Efficient Robot Motion Planning with Formal Guarantees”
 
-      - name: Master's students (Reseach Master's)
+      - name: Master's students (Thesis option)
         full: False
         list:
-          - name: Chuer Pan (MSR)
-            web_url: https://www.ri.cmu.edu/ri-people/chuer-pan/
-          - name: Gaurav Pathak (MSR) -> Adobe
-            web_url: https://www.ri.cmu.edu/ri-people/gaurav-pathak/
-          - name: Zixuan Huang (MSR) -> Michigan PhD
-            web_url: https://www.ri.cmu.edu/ri-people/zixuan-huang/
-          - name: Yufei Wang (MSCS) -> CMU PhD
-            web_url: https://yufeiwang63.github.io/
-          - name: Harshit Sikchi (MSCS) -> UT Austin PhD
-            web_url: https://hari-sikchi.github.io/
-          - name: Sujay Bajrachaya (MSR) -> Software Engineer at Epic Systems
-            web_url: https://sujaybajracharya.me/
-          - name: Qiao Gu (MSR) -> U Toronto PhD
-            web_url: https://georgegu1997.github.io/
-          - name: Gautham Narayan Narasimhan (MSME) -> CV / ML Engineer at Path Robotics
-            web_url: https://gauthamnarayan.com/
-          - name: Jianing (Aurora) Qian (MSR) -> U Penn PhD
-            web_url: https://www.ri.cmu.edu/ri-people/jianing-qian/
-          - name: Junyu (Jenny) Nan (MSR) -> CMU PhD
-            web_url: https://www.ri.cmu.edu/ri-people/junyu-nan/
-          - name: Mengyun (Olivia) Xu (MSCS) -> Amazon Robotics
-            web_url: https://www.linkedin.com/in/mengyun-olivia-xu-36a7ab126
-          - name: Edward Ahn (MSR) -> AI / ML Engineer at Apple
-            web_url: https://www.ri.cmu.edu/ri-people/edward-ahn/
-    
-      - name: Visiting Reseachers
+          - name: Shaojun Zhu (Fall 2015 - Spring 2018)
+          - name: Zacharias Psarakis (Fall 2015 - Spring 2018)
+          - name: Chris Kourtev (Fall 2015 - Fall 2017)
+          - name: Colin Rennie (Fall 2014 - Summer 2017)
+          - name: Aditya Chukka (Fall 2015 - Spring 2017)
+          - name: Min Zhao (Psychology/CS - Co-advised with Prof. Eileen Kowler) (Fall 2013 - Summer 2014)
+
+	- name: Master's students (Thesis option) @ University of Nevada, Reno
         full: False
         list:
-            - name: Himangi Mittal -> CMU MSR
-              web_url: https://himangim.github.io/
-            - name: Jianren Wang -> CMU PhD
-      - name: Master's students (Capstone Project)
+          - name: James Marble (Fall 2010 - Spring 2012)
+          - name: Ryan Luna (Fall 2009 - Spring 2011)
+          - name: Yanbo Li (Spring 2009 - Spring 2011)
+          - name: Ilias Apostolopoulos (Fall 2009 - Spring 2011)
+          
+      
+      - name: Undergraduate Research
         full: False
         list:
-          - name: Yi Gu (MRSD)
-            web_url: https://www.ri.cmu.edu/ri-people/yi-gu/
-          - name: Arpit Jangid (MSCV)
-            web_url: https://www.ri.cmu.edu/ri-people/arpit-jangid/
-          - name: Ji Liu (MSCV)
-            web_url: https://www.ri.cmu.edu/ri-people/ji-liu/
-          - name: Zhenli Zhang (MSCV)
-            web_url: https://www.linkedin.com/in/zhenli-zhang-a36912126
-          - name: Xiaochen Han (MSCV)
-            web_url:
-          - name: Tanay Sharma (MSCV)
-            web_url:
+          - name: Jack Lowry (Spring 2021 - Summer 2022)
+          - name: Jasmine Flanders (Summer 2021) [Project SUPER for Women in STEM]
+          - name: Daniel Boehm (Fall 2019 - Spring 2020) [Aresty fellow]
+          - name: Sruthi Soorian (Summer 2019 - Spring 2020) [Project SUPER for Women in STEM]
+          - name: Seth Karten (Summer 2018 - Spring 2021)
+          - name: Patrick Meng (Summer 2017 - Spring 2021)
+          - name: Nicholas Griego (Fall 2017)
+          - name: Han Meng (Summer 2015 - Summer 2016) [Aresty Fellow and CCICADA researcher]
+          - name: Robert Gross (Summer 2014 - Summer 2016)
+          - name: Robert Kolchmeyer (Fall 2014 - Summer 2015) [Aresty Fellow]
+          - name: Andrew Wells (Summer 2015) [DIMACS REU Fellow - CUA student]
+          - name: Poorva Sampat (Summer 2014 - Summer 2015) [REU Fellow, CCICADA RA]
+          - name: Meera Murti (Summer 2014 - Summer 2015) [CCICADA RA]
+          - name: Ainesh Bakshi (Fall 2014 - Spring 2015) [Aresty Fellow]
+          - name: Gautam Venkatesan (Summer 2014) [Aresty Fellow]
+          - name: Priyesh Shah (Summer 2014)
+          - name: Grisam Shah (Summer 2014)
+          - name: Isaac Yochelson (Summer 2013 - May 2014) - Joined Lockheed Martin
+          - name: Ellyn Thwaite (Summer 2013 - May 2014)
+          - name: Joseph Jaeger (Summer 2013) - Joined the graduate program of UCSD.
+
+	- name: Highschool Students
+        full: False
+        list:
+            -name: Kunaal Chaudhari from the High Technology High School in Lincroft, NJ: “Robotics Internships for K-12 students in Computer Science” (Summer & Fall 2017)
+            -name: Nikos Mouchtaris from Governor Livingston High School, NJ: “Remote Control of a Manipulator via a Virtual Reality Interface” (Summer 2015 & Summer 2016)
+            -name: Alistair Kapadia (Summer 2016)
+            -name: Alexander Yao (Summer 2016)
+            -name: Jackson Meng from Peddie School in Hightstown, NJ: “3D Printing of a Robotic Hand” (Summer 2014)
 
 ---
 
