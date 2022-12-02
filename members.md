@@ -83,7 +83,7 @@ members:
           - name: Aditya Chukka (Fall 2015 - Spring 2017)
           - name: Min Zhao (Psychology/CS - Co-advised with Prof. Eileen Kowler) (Fall 2013 - Summer 2014)
 
-	- name: Master's students (Thesis option) @ University of Nevada, Reno
+      - name: Master's students (Thesis option) @ University of Nevada, Reno
         full: False
         list:
           - name: James Marble (Fall 2010 - Spring 2012)
@@ -116,7 +116,7 @@ members:
           - name: Ellyn Thwaite (Summer 2013 - May 2014)
           - name: Joseph Jaeger (Summer 2013) - Joined the graduate program of UCSD.
 
-	- name: Highschool Students
+      - name: Highschool Students
         full: False
         list:
             -name: Kunaal Chaudhari from the High Technology High School in Lincroft, NJ: “Robotics Internships for K-12 students in Computer Science” (Summer & Fall 2017)
