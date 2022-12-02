@@ -2,7 +2,7 @@
 layout: page
 title: Robots
 subtitle:
-robots:
+members:
   - name: Baxter
     list:
       - full: true
@@ -10,14 +10,14 @@ robots:
           - name: Baxter
             photo_url: /img/robots/Baxter.jpg
             web_url: https://robots.ieee.org/robots/baxter/
-   - name: KUKA LBR
+  - name: KUKA LBR
     list:
       - full: true
         list:
           - name: 
             photo_url: /img/robots/KUKA_LBR.png
             web_url: https://robots.ieee.org/robots/baxter/ 
-   - name: UR5
+  - name: UR5
     list:
       - full: true
         list:
@@ -25,7 +25,7 @@ robots:
             photo_url: /img/robots/UR5.png
             web_url: https://robots.ieee.org/robots/baxter/ 
 
-   - name: Motoman
+  - name: Motoman
     list:
       - full: true
         list:
@@ -33,7 +33,7 @@ robots:
             photo_url: /img/robots/Motoman.png
             web_url: https://robots.ieee.org/robots/baxter/ 
 
-   - name: Robomantis
+  - name: Robomantis
     list:
       - full: true
         list:
@@ -41,7 +41,7 @@ robots:
             photo_url: /img/robots/Robomantis.png
             web_url: https://robots.ieee.org/robots/baxter/ 
 
-   - name: Omnidirectional
+  - name: Omnidirectional
     list:
       - full: true
         list:
@@ -49,14 +49,14 @@ robots:
             photo_url: /img/robots/Omnidirectional.png
             web_url: https://robots.ieee.org/robots/baxter/ 
 
-   - name: Robotiq Gripper
+  - name: Robotiq Gripper
     list:
       - full: true
         list:
           - name: Robotic Gripper
             photo_url: /img/robots/robotiq.jpeg
             web_url: https://robots.ieee.org/robots/baxter/  
-   - name: Robotiq Gripper 2
+  - name: Robotiq Gripper 2
     list:
       - full: true
         list:
