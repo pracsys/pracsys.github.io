@@ -11,16 +11,7 @@
 #   title: null
 #   venue: null
 #   video_embed: null
-- abs: null
-  authors: null
-  award: null
-  bib: null
-  img: null
-  links:
-    '[arXiv]': null
-  short_id: null
-  site: null
-  title: MIT Robotics - Kostas Bekris - Towards Closing the Perception-Planning and Sim2Real Gaps in Robotics
+- title: MIT Robotics - Kostas Bekris - Towards Closing the Perception-Planning and Sim2Real Gaps in Robotics
   venue: Massachussets Institute of Technology (MIT), Nov. 2022
   video_embed:  <iframe width="560" height="315" src="https://www.youtube.com/embed/2g4deZZQzY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - abs: null
@@ -30,7 +21,7 @@
   img: null
   links:
     '[arXiv]': null
-  short_id: kostasCITRISOct22 
+  short_id: null 
   site: null
   title: Kostas Bekris - Towards Closing the Perception Planning and Sim2Real Gaps in Robotics, October 2022
   venue: Center for Information Technology Research in the Interest of Society and the Banatao Institute (CITRIS), Oct. 2022
@@ -42,7 +33,7 @@
   img: null
   links:
     '[arXiv]': null
-  short_id: kostasDIMACS19
+  short_id: null
   site: null
   title: Kostas Bekris - Algorithmic Foundations of Robotics
   venue: Center for Discrete Mathematics and Theoretical Computer Science (DIMACS), Nov. 2019
@@ -54,7 +45,7 @@
   img: null
   links:
     '[arXiv]': null
-  short_id: kostasTAMUMay16
+  short_id: null
   site: null
   title: Kostas Bekris - Efficient Robot Motion Planning with Practical Performance Guarantee, May '16
   venue: Texas A&M University (TAMU), May 2019
@@ -66,7 +57,7 @@
   img: null
   links:
     '[arXiv]': null
-  short_id: kostasAWLAug16
+  short_id: null
   site: null
   title: Kostas Bekris - Title Lessons from the 1st Amazon Picking Challenge and Rutgers' Participation, Aug.2016
   venue:  AWL Workshop, Aug. 2016
