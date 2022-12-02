@@ -3,13 +3,13 @@ layout: page
 title: Members
 subtitle:
 members:
-  - name: Faculty
+  - name: Baxter
     list:
       - full: true
         list:
-          - name: David Held
-            photo_url: /img/members/daveheld.jpg
-            web_url: https://davheld.github.io
+          - name: Baxter
+            photo_url: /img/robots/baxter.png
+            web_url: https://robots.ieee.org/robots/baxter/
   - name: Current members
     list:
       - name: Post-Docs
