@@ -8,7 +8,7 @@ members:
       - full: true
         list:
           - name: Kostas Bekris
-            photo_url: /img/members/bekris2.png
+            photo_url: /img/members/bekris.png
             web_url: https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/
   - name: Current members
     list:
@@ -16,13 +16,13 @@ members:
         full: true
         list:
           - name: Ewerton Vieira
-            photo_url: img/members/ewerton.png
+            photo_url: img/members/ewerton.jpg
             web_url: https://ewerton-vieira.github.io/
       - name: PhD students
         full: true
         list:
           - name: Aravind Sivaramakrishnan 
-            photo_url: /img/members/ismarou.png
+            photo_url: /img/members/aravind.jpeg
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Daniel Nakhimovich 
             photo_url: /img/members/ismarou.png
