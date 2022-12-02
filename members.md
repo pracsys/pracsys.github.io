@@ -58,7 +58,14 @@ members:
         list:
           - name: Rui Wang -> 
           - name: Kun Wang -> 
-         
+          - name: Bowen Wen (Fall 2018 - Spring 2022) -> Nvidia Research, Seattle, WA.
+          - name: Chaitanya Mitash  (Fall 2015 - Summer 2020) (co-advised with Abdeslam Boularias) -> Amazon Robotics, Boston, MA.
+          - name: Rahul Shome (Fall 2013 - Spring 2020) ->  PostDoc at Rice University -> Faculty, Australian National University (ANU)
+          - name: Andrew Kimmel (Fall 2012 - Summer 2019) -> Amazon Robotics, Boston, MA.
+          - name: Zachary Littlefield (Fall 2012 - Fall 2019), NASA STR Fellow -> Uber Robotics, Pittsburgh, PA -> Aurora 
+          - name: Thanasis Krontiris (Fall 2012 - Summer 2017) -> Autonomous driving start-up “Auto X” , Palo Alto, CA -> Google
+          - name: Andrew Dobson (Fall 2012 - Summer 2017), A DHS fellow -> PostDoc at University of Michigan, Ann Arbor -> State of CA.
+
    
 ---
 

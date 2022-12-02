@@ -2,7 +2,7 @@
 layout: page
 title: Robots
 subtitle:
-members:
+robots:
   - name: Baxter
     list:
       - full: true
