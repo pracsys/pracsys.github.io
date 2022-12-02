@@ -8,7 +8,7 @@ members:
       - full: true
         list:
           - name: Baxter
-            photo_url: /img/robots/bBxter.png
+            photo_url: /img/robots/Baxter.png
             web_url: https://robots.ieee.org/robots/baxter/
   - name: Current members
     list:
