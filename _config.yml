@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: R-PAD Lab
+title: PRACSYS Lab
 
 # Short description of your site
-description: Robots Perceiving and Doing
+description: Physics-aware Research for Autonomous Computational SYStems (PRACSYS) Lab
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -24,6 +24,7 @@ navbar-links:
   Members: "members"
   Publications: "publications"
   Robot Demos: "demos"
+  Talks: "talks"
   Robots: "robots"
   # About Me: "aboutme"
   # Resources:
@@ -37,7 +38,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/DavidHeld_files/rpad3.png"
+title-img: "/img/logo.png"
 
 # --- Background colour/image options --- #
 
@@ -65,7 +66,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Robots Perceiving and Doing Lab
+  name: Physics-aware Research for Autonomous Computational SYStems (PRACSYS) Lab
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
