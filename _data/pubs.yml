@@ -119,7 +119,7 @@
   title: 'ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from
     Point Clouds'
   venue: Conference on Robot Learning (CoRL), 2022
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/cJbtqOAGyI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: "Effective planning of long-horizon deformable object manipulation requires\
     \ suitable \n                    abstractions at both the spatial and temporal\
     \ levels. \n                    Previous methods typically either focus on short-horizon\
@@ -157,7 +157,7 @@
   title: <a href="https://sites.google.com/view/pasta-plan">Planning with Spatial-Temporal
     Abstraction from Point Clouds for Deformable Object Manipulation</a>
   venue: Conference on Robot Learning (CoRL), 2022
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPV_bMeszWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: "Orientation estimation is the core to a variety of vision and robotics tasks such as camera and object pose estimation. Deep learning has offered a way
     \ to develop image-based orientation estimators; however, such estimators often require training on a large labeled dataset, which can be time-intensive 
     \ to collect. In this work, we explore whether self-supervised learning from unlabeled data can be used to alleviate this issue. Specifically, we assume 
@@ -228,7 +228,7 @@
   site: https://sites.google.com/view/reskin-cloth/home
   title: Learning to Singulate Layers of Cloth based on Tactile Feedback
   venue: International Conference on Intelligent Robots and Systems (IROS), 2022
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/FTGbx1XDjJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: Deformable object manipulation has many applications such as cooking and laundry
     folding in our daily lives. Manipulating elastoplastic objects such as dough is
     particularly challenging because dough lacks a compact state representation and
@@ -259,7 +259,7 @@
     Dough Manipulation using a Differentiable Reset Module</a>
   venue: Robotics and Automation Letters (RAL) with presentation at the International
     Conference on Intelligent Robots and Systems (IROS), 2022
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/o6Dx6ZLYo44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: Robotic manipulation of highly deformable cloth presents a promising opportunity
     to assist people with several daily tasks, such as washing dishes; folding laundry;
     or dressing, bathing, and hygiene assistance for individuals with severe motor
@@ -296,7 +296,7 @@
     Object Interactions'
   venue: Robotics and Automation Letters (RAL) with presentation at the International
     Conference on Intelligent Robots and Systems (IROS), 2022
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/hXAgi1HYDuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: We explore a novel method to perceive and manipulate 3D articulated objects
     that generalizes to enable a robot to articulate unseen classes of objects. We
     propose a vision-based system that learns to predict the potential motions of
@@ -324,7 +324,7 @@
   title: '<a href="https://sites.google.com/view/articulated-flowbot-3d/home#h.xrrj1zv4o44a">FlowBot3D:
     Learning 3D Articulation Flow to Manipulate Articulated Objects</a>'
   venue: 'Robotics: Science and Systems (RSS), 2022'
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZxRS8WfZOMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: "Self-occlusion is challenging for cloth manipulation, as it makes it difficult\
     \ to estimate the full state of the cloth. Ideally, a robot trying to unfold a\
     \ crumpled or folded cloth should be able to reason about the cloth's occluded\
@@ -443,7 +443,7 @@
   title: <a href="https://sites.google.com/view/transparentliquidpouring">Self-supervised
     Transparent Liquid Segmentation for Robotic Pouring</a>
   venue: International Conference of Robotics and Automation (ICRA), 2022
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/BkAxNCvYmM0" title="Robotic pouring from empty to 75% of the cup height." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: Real-time object pose estimation is necessary for many robot manipulation algorithms.
     However, state-of-the-art methods for object pose estimation are trained for a
     specific set of objects; these methods thus need to be retrained to estimate the
@@ -608,7 +608,7 @@
   title: <a href="https://arxiv.org/abs/2105.10389">Learning Visible Connectivity
     Dynamics for Cloth Smoothing</a>
   venue: Conference on Robot Learning (CoRL), 2021
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/QgRrHeKylhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: We address the problem of goal-directed cloth manipulation, a challenging task
     due to the deformability of cloth. Our insight is that optical flow, a technique
     normally used for motion estimation in video, can also provide an effective representation
@@ -638,7 +638,7 @@
   title: '<a href="https://arxiv.org/abs/2111.05623">FabricFlowNet: Bimanual Cloth
     Manipulation with a Flow-based Policy</a>'
   venue: Conference on Robot Learning (CoRL), 2021
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/r68EEzzj_Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: Reinforcement learning (RL) in low-data and risk-sensitive domains requires
     performant and flexible deployment policies that can readily incorporate constraints
     during deployment. One such class of policies are the semi-parametric H-step lookahead
@@ -912,7 +912,7 @@
   title: '<a href="https://arxiv.org/abs/2011.07213">PLAS: Latent Action Space for
     Offline Reinforcement Learning</a>'
   venue: Conference on Robot Learning (CoRL), 2020
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/d0ykqAxbklA" title="Cloth Sliding with PLAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: 'Visual data in autonomous driving perception, such as camera image and LiDAR
     point cloud, can be interpreted as a mixture of two aspects: semantic feature
     and geometric structure. Semantics come from the appearance and context of objects
@@ -1007,7 +1007,7 @@
   title: <a href="https://arxiv.org/abs/2008.05626">Cloth Region Segmentation for
     Robust Grasp Selection</a>
   venue: International Conference on Intelligent Robots and Systems (IROS), 2020
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/iLgSz1PfVm0?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: 3D object trackers usually require training on large amounts of annotated data
     that is expensive and time-consuming to collect. Instead, we propose leveraging
     vast unlabeled datasets by self-supervised metric learning of 3D object trackers,
@@ -1168,7 +1168,7 @@
     for Grasping Transparent and Specular Objects</a>
   venue: Robotics and Automation Letters (RAL) with presentation at the International
     Conference of Robotics and Automation (ICRA), 2020
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/rYRPWe0xLVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: null
   authors: Peiyun Hu, David Held*, Deva Ramanan*
   award: null
