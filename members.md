@@ -21,21 +21,21 @@ members:
       - name: PhD students
         full: true
         list:
-          - name: Thomas Weng
-            photo_url: https://www.ri.cmu.edu/wp-content/uploads/2017/04/weng_thomas_2018.jpg
-            web_url: https://www.thomasweng.com
-          - name: Wenxuan Zhou
-            photo_url: https://www.ri.cmu.edu/wp-content/uploads/2017/07/zhou_wenxuan_2019_1.jpg
-            web_url: https://wenxuan-zhou.github.io/
-          - name: Ben Eisner
-            photo_url: https://www.ri.cmu.edu/wp-content/uploads/2020/07/Eisner_Benjamin_2020.png
-            web_url: http://beisner.me/
+          - name: Isidoros Marougkas
+            photo_url: https://drive.google.com/file/d/1z4ptrKAtr4E-GQle4vtc1Eg0vID_OSZn/view?usp=share_link
+            web_url: https://www.linkedin.com/in/isidoros-marougkas
+          - name: Rachel Lai
+            photo_url: https://drive.google.com/file/d/1z4ptrKAtr4E-GQle4vtc1Eg0vID_OSZn/view?usp=share_link
+            web_url: https://www.linkedin.com/in/isidoros-marougkas
+          - name: Noah Carver
+            photo_url: https://drive.google.com/file/d/1z4ptrKAtr4E-GQle4vtc1Eg0vID_OSZn/view?usp=share_link
+            web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Yufei Wang<br>(co-advised with Zackory Erickson)
             photo_url: https://yufeiwang63.github.io/img/1inch_yufeiwang.jpg
-            web_url: https://yufeiwang63.github.io/
+            web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Jenny Wang
             photo_url: https://www.ri.cmu.edu/app/uploads/2021/07/Wang_Jenny-scaled.jpg
-            web_url: https://www.ri.cmu.edu/ri-people/jenny-wang/
+            web_url: https://www.linkedin.com/in/isidoros-marougkas
       - name: Masters students
         full: true
         list:
