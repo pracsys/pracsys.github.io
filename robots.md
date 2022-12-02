@@ -14,14 +14,14 @@ members:
     list:
       - full: true
         list:
-          - name: 
+          - name: KUKA Iiwa LBR
             photo_url: /img/robots/KUKA_LBR.png
-            web_url: https://robots.ieee.org/robots/baxter/ 
+            web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa
   - name: UR5
     list:
       - full: true
         list:
-          - name: Baxter
+          - name: UR5
             photo_url: /img/robots/UR5.png
             web_url: https://robots.ieee.org/robots/baxter/ 
 
@@ -29,7 +29,7 @@ members:
     list:
       - full: true
         list:
-          - name: Motoman
+          - name: Yaskawa Motoman
             photo_url: /img/robots/Motoman.png
             web_url: https://robots.ieee.org/robots/baxter/ 
 
@@ -37,17 +37,25 @@ members:
     list:
       - full: true
         list:
-          - name: Baxter
+          - name: Motiv's Robomantis
             photo_url: /img/robots/Robomantis.png
-            web_url: https://robots.ieee.org/robots/baxter/ 
+            web_url: https://motivss.com/tech-dev/robomantis/
 
   - name: Omnidirectional
     list:
       - full: true
         list:
-          - name: Baxter
+          - name: Omnidirectional
             photo_url: /img/robots/Omnidirectional.png
             web_url: https://robots.ieee.org/robots/baxter/ 
+  
+  - name: Tensegrity
+    list:
+      - full: true
+        list:
+          - name: Tensegrity
+            photo_url: /img/robots/tensegrity.jpeg
+            web_url:   https://www.nasa.gov/content/super-ball-bot/
 
   - name: Robotiq Gripper
     list:
@@ -64,7 +72,7 @@ members:
             photo_url: /img/robots/robotiq2.jpeg
             web_url: https://robots.ieee.org/robots/baxter/ 
 
-  
+
 ---
 
 <div class="row">
