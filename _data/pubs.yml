@@ -45,7 +45,7 @@
   short_id: kostasDIMACS19
   site: null
   title: Kostas Bekris - Algorithmic Foundations of Robotics
-  venue:  (DIMACS), Nov. 2019
+  venue: Center for Discrete Mathematics and Theoretical Computer Science (DIMACS), Nov. 2019
   video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/bs_kh0glfDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - abs: null
   authors: null
@@ -57,8 +57,8 @@
   short_id: kostasTAMUMay16
   site: null
   title: Kostas Bekris - Efficient Robot Motion Planning with Practical Performance Guarantee, May '16
-  venue:  (TAMU), May 2019
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/2g4deZZQzY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  venue: Texas A&M University (TAMU), May 2019
+  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/ssgiFrM71mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - abs: null
   authors: null
   award: null
