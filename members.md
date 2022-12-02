@@ -19,7 +19,7 @@ members:
             photo_url: /img/members/ewerton.jpg
             web_url: https://ewerton-vieira.github.io/
           - name: Troy McMahon
-            photo_url: /img/members/ewerton.jpg
+            photo_url: /img/members/troy.jpg
             web_url: https://ewerton-vieira.github.io/
       - name: PhD students
         full: true
