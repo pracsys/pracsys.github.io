@@ -58,14 +58,7 @@ members:
         list:
           - name: Rui Wang -> 
           - name: Kun Wang -> 
-          - name: Bowen Wen (Fall 2018 - Spring 2022) -> Nvidia Research, Seattle, WA.  PhD Thesis: “Beyond Instance-level Reasoning in Object Pose Estimation and Tracking for Robotic Manipulation”
-          - name: Chaitanya Mitash  (Fall 2015 - Summer 2020) (co-advised with Abdeslam Boularias) -> Amazon Robotics, Boston, MA.  PhD Thesis: “Scalable, Physics-aware 6D Pose Estimation for Robot Manipulation”
-          - name: Rahul Shome (Fall 2013 - Spring 2020) ->  PostDoc at Rice University -> Faculty, Australian National University (ANU).  PhD thesis: “The Problem of Many: Efficient Multi-arm, Multi-object Task and Motion Planning with Optimality Guarantees”	
-          - name: Andrew Kimmel (Fall 2012 - Summer 2019) -> Amazon Robotics, Boston, MA.  All But Dissertation 
-          - name: Zachary Littlefield (Fall 2012 - Fall 2019), NASA STR Fellow -> Uber Robotics, Pittsburgh, PA -> Aurora.  PhD Thesis: “Efficient and Asymptotically Optimal Kinodynamic Motion Planning”
-          - name: Thanasis Krontiris (Fall 2012 - Summer 2017) -> Autonomous driving start-up “Auto X” , Palo Alto, CA -> Google.  PhD Thesis: “Hierarchical Frameworks for Efficient Prehensile Rearrangement with a Robotic Manipulator”
-          - name: Andrew Dobson (Fall 2012 - Summer 2017), A DHS fellow -> PostDoc at University of Michigan, Ann Arbor -> State of CA.  PhD Thesis: “Compact Representations for Efficient Robot Motion Planning with Formal Guarantees”
-
+         
    
 ---
 
