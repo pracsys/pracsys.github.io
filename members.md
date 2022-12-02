@@ -25,16 +25,16 @@ members:
             photo_url: /img/members/aravind.jpeg
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Daniel Nakhimovich 
-            photo_url: /img/members/ismarou.png
+            photo_url: /img/members/danieln.png
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Edgar Granados
-            photo_url: /img/members/ismarou.png
+            photo_url: /img/members/edgarg.png
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Shiyang Liu
-            photo_url: /img/members/ismarou.png
+            photo_url: /img/members/shiyangl.jpg
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Yinglong Miao
-            photo_url: /img/members/ismarou.png
+            photo_url: /img/members/yinglongm.jpg
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Isidoros Marougkas
             photo_url: /img/members/ismarou.png
@@ -46,7 +46,7 @@ members:
             photo_url: /img/members/ismarou.png
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Noah Carver
-            photo_url: /img/members/ismarou.png
+            photo_url: /img/members/noahc.jpg
             web_url: https://www.linkedin.com/in/isidoros-marougkas
   - name: <a name="alumni"></a>Alumni
     list:
