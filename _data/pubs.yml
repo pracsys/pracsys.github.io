@@ -22,7 +22,7 @@
   site: null
   title: MIT Robotics - Kostas Bekris - Towards Closing the Perception-Planning and Sim2Real Gaps in Robotics
   venue: Massachussets Institute of Technology (MIT), Nov. 2022
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/m-YaRXU1oqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed:  <iframe width="560" height="315" src="https://www.youtube.com/embed/2g4deZZQzY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - abs: null
   authors: null
   award: null
@@ -30,11 +30,11 @@
   img: null
   links:
     '[arXiv]': null
-  short_id: kostasCITRISOct22
+  short_id: kostasCITRISOct22 
   site: null
   title: Kostas Bekris - Towards Closing the Perception Planning and Sim2Real Gaps in Robotics, October 2022
   venue:  (CITRIS), Oct. 2022
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/2g4deZZQzY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/m-YaRXU1oqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - abs: null
   authors: null
   award: null
