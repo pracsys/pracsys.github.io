@@ -7,22 +7,40 @@ members:
     list:
       - full: true
         list:
-          - name: David Held
-            photo_url: /img/members/daveheld.jpg
-            web_url: https://davheld.github.io
+          - name: Kostas Bekris
+            photo_url: /img/members/bekris2.png
+            web_url: https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/
   - name: Current members
     list:
       - name: Post-Docs
         full: true
         list:
-          - name: Daniel Seita
-            photo_url: http://www.cs.cmu.edu/~dseita/images/Daniel-Spring-2021.JPG
-            web_url: http://www.cs.cmu.edu/~dseita/
+          - name: Ewerton Vieira
+            photo_url: img/members/ewerton.png
+            web_url: https://ewerton-vieira.github.io/
       - name: PhD students
         full: true
         list:
+          - name: Aravind Sivaramakrishnan 
+            photo_url: /img/members/ismarou.png
+            web_url: https://www.linkedin.com/in/isidoros-marougkas
+          - name: Daniel Nakhimovich 
+            photo_url: /img/members/ismarou.png
+            web_url: https://www.linkedin.com/in/isidoros-marougkas
+          - name: Edgar Granados
+            photo_url: /img/members/ismarou.png
+            web_url: https://www.linkedin.com/in/isidoros-marougkas
+          - name: Shiyang Liu
+            photo_url: /img/members/ismarou.png
+            web_url: https://www.linkedin.com/in/isidoros-marougkas
+          - name: Yinglong Miao
+            photo_url: /img/members/ismarou.png
+            web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Isidoros Marougkas
-            photo_url: /img/members/ismarou.opng
+            photo_url: /img/members/ismarou.png
+            web_url: https://www.linkedin.com/in/isidoros-marougkas
+          - name: Nelson Chen
+            photo_url: /img/members/ismarou.png
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Rachel Lai
             photo_url: /img/members/ismarou.png
@@ -30,65 +48,18 @@ members:
           - name: Noah Carver
             photo_url: /img/members/ismarou.png
             web_url: https://www.linkedin.com/in/isidoros-marougkas
-          - name: Yufei Wang<br>(co-advised with Zackory Erickson)
-            photo_url: https://yufeiwang63.github.io/img/1inch_yufeiwang.jpg
-            web_url: https://www.linkedin.com/in/isidoros-marougkas
-          - name: Jenny Wang
-            photo_url: https://www.ri.cmu.edu/app/uploads/2021/07/Wang_Jenny-scaled.jpg
-            web_url: https://www.linkedin.com/in/isidoros-marougkas
-      - name: Masters students
-        full: true
-        list:
-          - name: Mansi Agrawal (MSR)
-            photo_url: /img/members/mansi.jpg
-            web_url: https://mansiagarwal11.github.io/
-          - name: Sarthak Shetty (MSME)
-            photo_url: /img/members/sarthak.jpg
-            web_url: https://sarthakjshetty.github.io/
-          - name: Sashank Tirumala (MSR)
-            photo_url: /img/members/sashank.jpg
-            web_url: https://sashank-tirumala.github.io/
-          - name: Carl Qi (MSML)
-            photo_url: /img/members/carl.jpg
-            web_url: https://carl-qi.github.io/
-          - name: Fan Yang (MSR)
-            photo_url: /img/members/fanyang.jpg
-            web_url: https://sites.google.com/view/fanyang98/
-          - name: Haolun (Harry) Zhang (MSR)
-            photo_url: /img/members/harry.jpg
-            web_url: https://harryzhangog.github.io/
-          - name: Gunjan Sethi (MRSD)
-            photo_url: /img/members/gunjans.JPEG
-            web_url: https://www.ri.cmu.edu/ri-people/gunjan-sethi/
-          - name: Bowen Jiang (MSR)
-            photo_url: /img/members/bowenjiang.png
-            web_url: https://www.ri.cmu.edu/ri-people/bowen-jiang-2/    
-          - name: Zhanyi Sun (MSR)
-            photo_url: /img/members/zhanyi.png
-            web_url: https://www.ri.cmu.edu/ri-people/zhanyi-sun/
-          - name: Pranay Gupta (MSR)
-            photo_url: /img/members/pranaygupta.jpg
-            web_url: https://www.ri.cmu.edu/ri-people/pranay-gupta/
-      - name: Undergraduate Students
-        full: true
-        list:
-          - name: Edward Li
-            photo_url: /img/members/edward.jpg
-            web_url:
-      # - name: Visiting Students
-      #  full: false
-       # list:
   - name: <a name="alumni"></a>Alumni
     list:
       - name: PhD alumni
         full: False
         list:
-          - name: Siddharth Ancha (co-advised with Srinivasa Narasimhan) -> Post-doc with Nick Roy at MIT
+          - name: Rui Wang -> Post-doc with Nick Roy at MIT
             web_url: https://siddancha.github.io/
-          - name: Xingyu Lin -> Post-doc with Pieter Abbeel at UC Berkeley
+          - name: Jun Wang -> Post-doc with Pieter Abbeel at UC Berkeley
             web_url: https://xingyu-lin.github.io/
-          - name: Brian Okorn (co-advised with Martial Hebert)
+          - name: Bowen Wen (co-advised with Martial Hebert)
             web_url: https://www.ri.cmu.edu/ri-people/brian-e-okorn/
+
       - name: Master's students (Reseach Master's)
         full: False
         list:
@@ -116,6 +87,7 @@ members:
             web_url: https://www.linkedin.com/in/mengyun-olivia-xu-36a7ab126
           - name: Edward Ahn (MSR) -> AI / ML Engineer at Apple
             web_url: https://www.ri.cmu.edu/ri-people/edward-ahn/
+    
       - name: Visiting Reseachers
         full: False
         list:
@@ -137,30 +109,6 @@ members:
             web_url:
           - name: Tanay Sharma (MSCV)
             web_url:
-      - name: Undergraduate students
-        full: False
-        list:
-          - name: Rashmi Anil
-          - name: Patrick Liu
-          - name: Jake Olkin
-      - name: Interns
-        full: False
-        list:
-                   - name: Khush Agrawal (RISS)
-                   - name: Pengsheng Guo
-                   - name: Wen-Hsuan Chu
-                   - name: Akshay Dharmavaram
-                   - name: Yifan Qiao
-                   - name: Tiancheng Jin
-                   - name: Stephanie Milani
-                   - name: Shubham Sahoo
-                   - name: Rohan Chacko
-                   - name: Khush Agrawal (RISS)
-                   - name: Yimin Tang (RISS)
-                   - name: Ziwen (Leo) Zhuang (RISS)
-                   - name: Zhaoyuan (Andy) Fang
-                   - name: Yujie Lu
-                   - name: Amith Pallankize
 
 ---
 
