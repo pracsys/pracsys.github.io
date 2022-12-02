@@ -22,13 +22,13 @@ members:
         full: true
         list:
           - name: Isidoros Marougkas
-            photo_url: https://drive.google.com/file/d/1z4ptrKAtr4E-GQle4vtc1Eg0vID_OSZn/view?usp=share_link
+            photo_url: /img/members/ismarou.opng
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Rachel Lai
-            photo_url: https://drive.google.com/file/d/1z4ptrKAtr4E-GQle4vtc1Eg0vID_OSZn/view?usp=share_link
+            photo_url: /img/members/ismarou.png
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Noah Carver
-            photo_url: https://drive.google.com/file/d/1z4ptrKAtr4E-GQle4vtc1Eg0vID_OSZn/view?usp=share_link
+            photo_url: /img/members/ismarou.png
             web_url: https://www.linkedin.com/in/isidoros-marougkas
           - name: Yufei Wang<br>(co-advised with Zackory Erickson)
             photo_url: https://yufeiwang63.github.io/img/1inch_yufeiwang.jpg
