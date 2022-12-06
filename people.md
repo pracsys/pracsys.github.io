@@ -143,7 +143,7 @@ members:
         <dl>
           {% for member in group.list %}
             <dt><a> {{member.name}} </a></dt>
-            <dd><a> {{member.bio}} </a></dd>
+            <dd> {{member.bio}} </dd>
           {% endfor %}
         </dl>
       {% endif %}
