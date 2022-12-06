@@ -21,7 +21,7 @@ description: Physics-aware Research for Autonomous Computational SYStems (PRACSY
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  Members: "members"
+  People: "people"
   Publications: "publications"
   Talks: "demos"
   Robots: "robots"
