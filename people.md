@@ -39,8 +39,8 @@ members:
           - name: Nelson Chen
             photo_url: 
             web_url: 
-          - name: Rachel test Lai
-            photo_url: 
+          - name: Rachel Lai
+            photo_url: /img/people/rlai.jpg
             web_url: https://rachellai27.github.io/
 
   - name: <a name="alumni"></a>Alumni
