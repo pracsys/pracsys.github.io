@@ -2,73 +2,46 @@
 layout: page
 title: Robots
 subtitle:
-members:
-  - name: Baxter
-    list:
-      - full: true
-        list:
-          - name: Baxter
-            photo_url: /img/robots/Baxter.jpg
-            web_url: https://robots.ieee.org/robots/baxter/
-  - name: KUKA LBR
+members:       
+  - name: Manipulators
     list:
       - full: true
         list:
           - name: KUKA Iiwa LBR
-            photo_url: /img/robots/KUKA_LBR.png
+            photo_url: /img/robots/kuka.jpg
             web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa
-  - name: UR5
-    list:
-      - full: true
-        list:
           - name: UR5
             photo_url: /img/robots/UR5.png
+            web_url: https://robots.ieee.org/robots/baxter/
+          - name: Baxter
+            photo_url: /img/robots/Baxter.jpg
             web_url: https://robots.ieee.org/robots/baxter/ 
-
-  - name: Motoman
-    list:
-      - full: true
-        list:
           - name: Yaskawa Motoman
             photo_url: /img/robots/Motoman.png
             web_url: https://robots.ieee.org/robots/baxter/ 
-
-  - name: Robomantis
-    list:
-      - full: true
-        list:
           - name: Motiv's Robomantis
             photo_url: /img/robots/Robomantis.png
             web_url: https://motivss.com/tech-dev/robomantis/
 
-  - name: Omnidirectional
+  - name: Mobile
     list:
       - full: true
         list:
           - name: Omnidirectional
             photo_url: /img/robots/Omnidirectional.png
             web_url: https://robots.ieee.org/robots/baxter/ 
-  
-  - name: Tensegrity
-    list:
-      - full: true
-        list:
           - name: Tensegrity
             photo_url: /img/robots/tensegrity.jpeg
             web_url:   https://www.nasa.gov/content/super-ball-bot/
 
-  - name: Robotiq Gripper
+  - name: Grippers
     list:
       - full: true
         list:
-          - name: Robotic Gripper
+          - name: Robotiq Gripper
             photo_url: /img/robots/robotiq.jpeg
             web_url: https://robots.ieee.org/robots/baxter/  
-  - name: Robotiq Gripper 2
-    list:
-      - full: true
-        list:
-          - name: Robotic Gripper 2
+          - name: Robotiq Gripper 2
             photo_url: /img/robots/robotiq2.jpeg
             web_url: https://robots.ieee.org/robots/baxter/ 
 
