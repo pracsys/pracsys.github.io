@@ -14,7 +14,7 @@ members:
             photo_url: /img/people/aravinds.jpeg
             web_url: https://people.cs.rutgers.edu/as2578/
           - name: Daniel Nakhimovich
-            photo_url: /img/people/danieln.png
+            photo_url: /img/people/danieln.jpg
             web_url: 
           - name: Edgar Granados
             photo_url: /img/people/edgarg.png
