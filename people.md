@@ -114,7 +114,7 @@ members:
 
 <div class="row">
   {% for big_group in page.members %}
-    <h1> {{big_group.name}} </h1>
+    <h1 style="background-color:lightgrey;"> {{big_group.name}} </h1>
     {% for group in big_group.list %}
     {% if group.list.size > 0 %}
       {% if group.name %}
