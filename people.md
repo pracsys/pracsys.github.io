@@ -3,18 +3,13 @@ layout: page
 title: People
 subtitle:
 members:
-  - name: Faculty
+  - name: Current Members
     list:
       - full: true
         list:
           - name: Dr. Kostas Bekris
             photo_url: /img/people/kostasb.jpg
             web_url: https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/
-  - name: Current Members
-    list:
-      - name: Ph.D. Students
-        full: true
-        list:
           - name: Aravind Sivaramakrishnan
             photo_url: /img/people/aravinds.jpeg
             web_url: https://people.cs.rutgers.edu/as2578/
@@ -37,7 +32,7 @@ members:
             photo_url: /img/people/noahc.jpg
             web_url: https://noahrcarver.github.io/
           - name: Nelson Chen
-            photo_url: 
+            photo_url: /img/people/nelsonc.jpg
             web_url: 
           - name: Rachel Lai
             photo_url: /img/people/rlai.jpg
