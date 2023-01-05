@@ -3,7 +3,7 @@ layout: page
 title: Robots
 subtitle:
 members:       
-   - name: Owned by PRACSYS Lab
+  - name: Owned by PRACSYS Lab
     list:
       - full: true
         list:
@@ -25,6 +25,7 @@ members:
           - name: 3-Finger Adaptive Robotiq Gripper
             photo_url: /img/robots/robotiq2.jpeg
             web_url: https://robotiq.com/products/3-finger-adaptive-robot-gripper
+          
 
 
   - name: Owned by collaborators
@@ -40,9 +41,10 @@ members:
           - name: UR5 (owned by Dr.Jingjin Yu's Lab)
             photo_url: /img/robots/UR5.png
             web_url: https://www.universal-robots.com/products/ur5-robot/
+          - name: Underactuated Adaptive Hand "Model-Q" (owned by Dr. Aaron Dollar's Lab)
+            photo_url: /img/robots/ModelQ.png
+            web_url: https://www.eng.yale.edu/grablab/openhand/model_q.html
 
-
- 
 ---
 
 <div class="row">
