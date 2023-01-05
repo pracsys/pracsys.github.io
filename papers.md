@@ -129,8 +129,7 @@ subtitle:
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script>
     function cullabstract(bibtexentry) {
-        var bibtexentry = $("#bibtexentry");
-        var span = bibtexentry.getElementById("citation");
+        var span = bibtexentry[0].getElementById("citation");
         var text = span.textcontent;
         text = text.slice(0,text.indexOf("cutafter="));
         span.textcontent = text;
