@@ -1,20 +1,23 @@
 ---
 layout: page
-title: Robots
+title: Robots 
 subtitle:
 members:       
-   - name: Owned by collaboratos
+  - name: Owned by collaborators
     list:
       - full: true
         list:
           - name: KUKA Iiwa LBR (owned by Dr. Abdeslam Boularias's Lab)
-            photo_url: /img/robots/UR5.png
-            web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa/
+            photo_url: /img/robots/Kuka_Photos.jpg
+            web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa
           - name: UR5 
             photo_url: /img/robots/UR5.png (owned by Jingjin Yu's Lab)
             web_url: https://www.universal-robots.com/products/ur5-robot/
-         	
-   - name: Owned by PRACSYS Lab
+          - name: Motiv's Robomantis (owned by Dr. Abdeslam Boularias's Lab)
+            photo_url: /img/robots/Robomantis.png
+            web_url: https://motivss.com/tech-dev/robomantis/
+
+  - name: Owned by PRACSYS Lab
     list:
       - full: true
         list:
@@ -23,10 +26,7 @@ members:
             web_url: https://robots.ieee.org/robots/baxter/ 
           - name: Yaskawa Motoman
             photo_url: /img/robots/Motoman.png
-            web_url: https://www.motoman.com/en-us/
-          - name: Motiv's Robomantis
-            photo_url: /img/robots/Robomantis.png
-            web_url: https://motivss.com/tech-dev/robomantis/
+            web_url: https://www.motoman.com/en-us
           - name: Omnidirectional
             photo_url: /img/robots/Omnidirectional.png
             web_url: https://robots.ieee.org/robots/baxter/ 
@@ -35,12 +35,10 @@ members:
             web_url:   https://www.nasa.gov/content/super-ball-bot/
           - name: 2-Finger Adaptive Robotiq Gripper 
             photo_url: /img/robots/robotiq.jpeg
-            web_url: https://robotiq.com/products/2f85-140-adaptive-robot-gripper/
-          - name: 3-Finger Adaptive Robotiq Gripper
+            web_url: https://robotiq.com/products/2f85-140-adaptive-robot-gripper
+          - name: 3-Finger Adaptive Robotiq Gripper 
             photo_url: /img/robots/robotiq2.jpeg
-            web_url: https://robotiq.com/products/3-finger-adaptive-robot-gripper/
-
-         
+            web_url: https://robotiq.com/products/3-finger-adaptive-robot-gripper
 	
 
 
