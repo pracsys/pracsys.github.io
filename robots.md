@@ -8,8 +8,8 @@ members:
       - full: true
         list:
           - name: KUKA Iiwa LBR (owned by Dr. Abdeslam Boularias's Lab)
-            photo_url: /img/robots/Kuka_Photos.jpg
-            web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa
+            photo_url: /img/robots/UR5.png
+            web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa/
           - name: UR5 
             photo_url: /img/robots/UR5.png (owned by Jingjin Yu's Lab)
             web_url: https://www.universal-robots.com/products/ur5-robot/
@@ -18,7 +18,7 @@ members:
             web_url: https://robots.ieee.org/robots/baxter/ 
           - name: Yaskawa Motoman
             photo_url: /img/robots/Motoman.png
-            web_url: https://www.motoman.com/en-us
+            web_url: https://www.motoman.com/en-us/
           - name: Motiv's Robomantis
             photo_url: /img/robots/Robomantis.png
             web_url: https://motivss.com/tech-dev/robomantis/
@@ -40,10 +40,10 @@ members:
         list:
           - name: 2-Finger Adaptive Robotiq Gripper (owned by Dr. Abdeslam Boularias's Lab)
             photo_url: /img/robots/robotiq.jpeg
-            web_url: https://robotiq.com/products/2f85-140-adaptive-robot-gripper
+            web_url: https://robotiq.com/products/2f85-140-adaptive-robot-gripper/
           - name: 3-Finger Adaptive Robotiq Gripper (owned by Dr. Abdeslam Boularias's Lab)
             photo_url: /img/robots/robotiq2.jpeg
-            web_url: https://robotiq.com/products/3-finger-adaptive-robot-gripper
+            web_url: https://robotiq.com/products/3-finger-adaptive-robot-gripper/
 	
 
 
