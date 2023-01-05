@@ -6,9 +6,10 @@
   position: relative;
 }
 
+
 .lab-photo {
   background: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.4) 100%),
-    url("/img/Homepage_Video.gif") no-repeat center center;
+    url("/img/Homepage_Video.gif") center center;
   background-size: 100%;
   background-color: white;
   min-height: 75%;
@@ -34,17 +35,6 @@
   background-color: white;
   min-height: 550px;
   position: relative;
-}
-@media only screen and (max-width: 900px) {
-  .map-photo {
-    background-size: contain;
-  }
-}
-@media only screen and (max-width: 300px) {
-  .map-photo {
-    background-size: contain;
-    min-height: 300px;
-  }
 }
 
 
