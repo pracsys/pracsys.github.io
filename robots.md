@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robots (used in experiments)
+title: Robots the Lab has worked with
 subtitle:
 members:       
   - name: Manipulators
