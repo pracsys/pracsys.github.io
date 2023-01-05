@@ -40,12 +40,12 @@
   position: relative;
 }
 @media only screen and (max-width: 900px) {
-  .lab-photo {
+  .map-photo {
     background-size: contain;
   }
 }
 @media only screen and (max-width: 300px) {
-  .lab-photo {
+  .map-photo {
     background-size: contain;
     min-height: 300px;
   }
