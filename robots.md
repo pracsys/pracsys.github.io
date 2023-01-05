@@ -40,12 +40,14 @@ members:
     list:
       - full: true
         list:
-          - name: 2-Finger Adaptive Robotiq Gripper (owned by Dr. Abdeslam Boularias's Lab)
+          - name: 2-Finger Adaptive Robotiq Gripper 
             photo_url: /img/robots/robotiq.jpeg
             web_url: https://robotiq.com/products/2f85-140-adaptive-robot-gripper
-          - name: 3-Finger Adaptive Robotiq Gripper (owned by Dr. Abdeslam Boularias's Lab)
+	(owned by Dr. Abdeslam Boularias's Lab)
+          - name: 3-Finger Adaptive Robotiq Gripper 
             photo_url: /img/robots/robotiq2.jpeg
             web_url: https://robotiq.com/products/3-finger-adaptive-robot-gripper
+	(owned by Dr. Abdeslam Boularias's Lab)
 
 
 ---
