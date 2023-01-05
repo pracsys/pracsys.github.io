@@ -42,8 +42,8 @@ members:
             photo_url: /img/robots/UR5.png
             web_url: https://www.universal-robots.com/products/ur5-robot/
           - name: Underactuated Adaptive Hand "Model-Q" (owned by Dr. Aaron Dollar's Lab)
-            photo_url: /img/robots/ModelQ.png
-            web_url: https://www.eng.yale.edu/grablab/openhand/
+            photo_url: /img/robots/UR5.png
+            web_url: https://www.universal-robots.com/products/ur5-robot/
 
 ---
 
