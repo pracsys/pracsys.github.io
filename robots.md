@@ -3,48 +3,43 @@ layout: page
 title: Robots
 subtitle:
 members:       
-  - name: Manipulators
+  - name: Owned by collaborators
     list:
       - full: true
         list:
-          - name: KUKA Iiwa LBR
+          - name: KUKA Iiwa LBR (owned by Dr. Abdeslam Boularias's Lab)
             photo_url: /img/robots/kuka.jpg
             web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa
-          - name: UR5
+          - name: Motiv's Robomantis (owned by Dr. Abdeslam Boularias's Lab)
+            photo_url: /img/robots/Robomantis.png
+            web_url: https://motivss.com/tech-dev/robomantis/
+          - name: UR5 (owned by Dr.Jingjin Yu's Lab)
             photo_url: /img/robots/UR5.png
-            web_url: https://robots.ieee.org/robots/baxter/
+            web_url: https://www.universal-robots.com/products/ur5-robot/
+
+
+  - name: Owned by PRACSYS Lab
+    list:
+      - full: true
+        list:
           - name: Baxter
             photo_url: /img/robots/Baxter.jpg
             web_url: https://robots.ieee.org/robots/baxter/ 
           - name: Yaskawa Motoman
             photo_url: /img/robots/Motoman.png
-            web_url: https://robots.ieee.org/robots/baxter/ 
-          - name: Motiv's Robomantis
-            photo_url: /img/robots/Robomantis.png
-            web_url: https://motivss.com/tech-dev/robomantis/
-
-  - name: Mobile
-    list:
-      - full: true
-        list:
+            web_url: https://www.motoman.com/en-us
           - name: Omnidirectional
             photo_url: /img/robots/Omnidirectional.png
             web_url: https://robots.ieee.org/robots/baxter/ 
           - name: Tensegrity
             photo_url: /img/robots/tensegrity.jpeg
-            web_url:   https://www.nasa.gov/content/super-ball-bot/
-
-  - name: Grippers
-    list:
-      - full: true
-        list:
-          - name: Robotiq Gripper
+            web_url: https://www.nasa.gov/content/super-ball-bot/
+          - name: 2-Finger Adaptive Robotiq Gripper
             photo_url: /img/robots/robotiq.jpeg
-            web_url: https://robots.ieee.org/robots/baxter/  
-          - name: Robotiq Gripper 2
+            web_url: https://robotiq.com/products/2f85-140-adaptive-robot-gripper
+          - name: 3-Finger Adaptive Robotiq Gripper
             photo_url: /img/robots/robotiq2.jpeg
-            web_url: https://robots.ieee.org/robots/baxter/ 
-
+            web_url: https://robotiq.com/products/3-finger-adaptive-robot-gripper
 
 ---
 
