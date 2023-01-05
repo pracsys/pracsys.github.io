@@ -7,14 +7,12 @@ members:
     list:
       - full: true
         list:
-          - name: KUKA Iiwa LBR 
+          - name: KUKA Iiwa LBR (owned by Dr. Abdeslam Boularias's Lab)
             photo_url: /img/robots/Kuka_Photos.jpg
             web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa
-	(owned by Dr. Abdeslam Boularias's Lab)
           - name: UR5 
-            photo_url: /img/robots/UR5.png
+            photo_url: /img/robots/UR5.png (owned by Jingjin Yu's Lab)
             web_url: https://www.universal-robots.com/products/ur5-robot/
-	(owned by Jingjin Yu's Lab)
           - name: Baxter
             photo_url: /img/robots/Baxter.jpg
             web_url: https://robots.ieee.org/robots/baxter/ 
@@ -40,14 +38,13 @@ members:
     list:
       - full: true
         list:
-          - name: 2-Finger Adaptive Robotiq Gripper 
+          - name: 2-Finger Adaptive Robotiq Gripper (owned by Dr. Abdeslam Boularias's Lab)
             photo_url: /img/robots/robotiq.jpeg
             web_url: https://robotiq.com/products/2f85-140-adaptive-robot-gripper
-	(owned by Dr. Abdeslam Boularias's Lab)
-          - name: 3-Finger Adaptive Robotiq Gripper 
+          - name: 3-Finger Adaptive Robotiq Gripper (owned by Dr. Abdeslam Boularias's Lab)
             photo_url: /img/robots/robotiq2.jpeg
             web_url: https://robotiq.com/products/3-finger-adaptive-robot-gripper
-	(owned by Dr. Abdeslam Boularias's Lab)
+	
 
 
 ---
