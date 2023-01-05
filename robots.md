@@ -3,22 +3,7 @@ layout: page
 title: Robots
 subtitle:
 members:       
-  - name: Owned by collaborators
-    list:
-      - full: true
-        list:
-          - name: KUKA Iiwa LBR (owned by Dr. Abdeslam Boularias's Lab)
-            photo_url: /img/robots/Kuka_Photo.jpg
-            web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa
-          - name: Motiv's Robomantis (owned by Dr. Abdeslam Boularias's Lab)
-            photo_url: /img/robots/Robomantis.png
-            web_url: https://motivss.com/tech-dev/robomantis/
-          - name: UR5 (owned by Dr.Jingjin Yu's Lab)
-            photo_url: /img/robots/UR5.png
-            web_url: https://www.universal-robots.com/products/ur5-robot/
-
-
-  - name: Owned by PRACSYS Lab
+   - name: Owned by PRACSYS Lab
     list:
       - full: true
         list:
@@ -41,6 +26,23 @@ members:
             photo_url: /img/robots/robotiq2.jpeg
             web_url: https://robotiq.com/products/3-finger-adaptive-robot-gripper
 
+
+  - name: Owned by collaborators
+    list:
+      - full: true
+        list:
+          - name: KUKA Iiwa LBR (owned by Dr. Abdeslam Boularias's Lab)
+            photo_url: /img/robots/Kuka_Photo.jpg
+            web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa
+          - name: Motiv's Robomantis (owned by Dr. Abdeslam Boularias's Lab)
+            photo_url: /img/robots/Robomantis.png
+            web_url: https://motivss.com/tech-dev/robomantis/
+          - name: UR5 (owned by Dr.Jingjin Yu's Lab)
+            photo_url: /img/robots/UR5.png
+            web_url: https://www.universal-robots.com/products/ur5-robot/
+
+
+ 
 ---
 
 <div class="row">
