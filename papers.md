@@ -46,7 +46,7 @@ subtitle:
         <table>
             <td width="250" height="100" style="text-align:center">
                 <div class="if img">
-                    <img class="bibtexVar" src="\img\papers\+IMG+" img width="250" extra="img" />
+                    <img class="bibtexVar" src="\img\papers\+img+" img width="250" extra="img" />
                 </div>
             </td>
             <td>
