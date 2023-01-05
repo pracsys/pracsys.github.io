@@ -42,7 +42,7 @@ subtitle:
 </div>
 
 <div id="bibtex_display">
-    <div class="bibtex_template" callback="cullabstract(bibtexentry)">
+    <div class="bibtex_template"> <!--callback="cullabstract(bibtexentry)">-->
         <table>
             <td width="250" height="100" style="text-align:center">
                 <div class="if img">
@@ -127,7 +127,7 @@ subtitle:
 
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-<script>
+<!--<script>
     function cullabstract(bibtexentry) {
         var bibtexentry = bibtexentry[0];
         var span = bibtexentry.getElementById("citation");
@@ -135,5 +135,5 @@ subtitle:
         text = text.slice(0,text.indexOf("cutafter="));
         span.textcontent = text;
     }         
-</script>
+</script>-->
 
