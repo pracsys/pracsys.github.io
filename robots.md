@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Robots the Lab has worked with
+title: Robots
 subtitle:
 members:       
-  - name: Manipulators
+   - name: Owned by collaboratos
     list:
       - full: true
         list:
@@ -13,6 +13,11 @@ members:
           - name: UR5 
             photo_url: /img/robots/UR5.png (owned by Jingjin Yu's Lab)
             web_url: https://www.universal-robots.com/products/ur5-robot/
+         	
+   - name: Owned by PRACSYS Lab
+    list:
+      - full: true
+        list:
           - name: Baxter
             photo_url: /img/robots/Baxter.jpg
             web_url: https://robots.ieee.org/robots/baxter/ 
@@ -22,28 +27,20 @@ members:
           - name: Motiv's Robomantis
             photo_url: /img/robots/Robomantis.png
             web_url: https://motivss.com/tech-dev/robomantis/
-
-  - name: Mobile
-    list:
-      - full: true
-        list:
           - name: Omnidirectional
             photo_url: /img/robots/Omnidirectional.png
             web_url: https://robots.ieee.org/robots/baxter/ 
           - name: Tensegrity
             photo_url: /img/robots/tensegrity.jpeg
             web_url:   https://www.nasa.gov/content/super-ball-bot/
-
-  - name: Grippers
-    list:
-      - full: true
-        list:
-          - name: 2-Finger Adaptive Robotiq Gripper (owned by Dr. Abdeslam Boularias's Lab)
+          - name: 2-Finger Adaptive Robotiq Gripper 
             photo_url: /img/robots/robotiq.jpeg
             web_url: https://robotiq.com/products/2f85-140-adaptive-robot-gripper/
-          - name: 3-Finger Adaptive Robotiq Gripper (owned by Dr. Abdeslam Boularias's Lab)
+          - name: 3-Finger Adaptive Robotiq Gripper
             photo_url: /img/robots/robotiq2.jpeg
             web_url: https://robotiq.com/products/3-finger-adaptive-robot-gripper/
+
+         
 	
 
 
