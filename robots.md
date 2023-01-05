@@ -8,10 +8,10 @@ members:
       - full: true
         list:
           - name: KUKA Iiwa LBR (owned by Dr. Abdeslam Boularias's Lab)
-            photo_url: /img/robots/Kuka_Photos.jpg
+            photo_url: /img/robots/UR5.png 
             web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa
-          - name: UR5 
-            photo_url: /img/robots/UR5.png (owned by Jingjin Yu's Lab)
+          - name: UR5 (owned by Jingjin Yu's Lab)
+            photo_url: /img/robots/UR5.png 
             web_url: https://www.universal-robots.com/products/ur5-robot/
           - name: Motiv's Robomantis (owned by Dr. Abdeslam Boularias's Lab)
             photo_url: /img/robots/Robomantis.png
