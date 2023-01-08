@@ -59,9 +59,7 @@ subtitle:
                             </a>
                         </span>
                         <span class="if !url">
-                            <a class="bibtexVar" href="+URL+" extra="url">
-                                <span style="text-decoration: underline;" class="title"></span>,
-                            </a>
+                            <span style="text-decoration: underline;" class="title"></span>,
                         </span>
                     </div>
     
