@@ -110,7 +110,7 @@ subtitle:
             </td>
                 <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
                     <div class="well" style="word-wrap: normal;">
-                    <span  style="word-wrap: normal;" class="bibtexraw noread" id="citation"></span>
+                    <pre><span class="bibtexraw noread" id="citation"></span></pre>
                     </div>
                 </div>
                 <div class="bibtexVar collapse" id="abstract+BIBTEXKEY+" extra="BIBTEXKEY">
