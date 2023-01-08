@@ -110,12 +110,12 @@ subtitle:
 
                 <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
                     <div class="well" style="word-wrap: normal;">
-                    <pre><span class="bibtexraw noread" id="citation"></span></pre>
+                    <span  style="word-wrap: normal;" class="bibtexraw noread" id="citation"></span>
                     </div>
                 </div>
                 <div class="bibtexVar collapse" id="abstract+BIBTEXKEY+" extra="BIBTEXKEY">
-                    <div class="well" style="word-wrap: normal;">
-                    <pre><span class="abstract"></span></pre>
+                    <div class="well">
+                    <span  style="word-wrap: normal;" class="abstract"></span>
                     </div>
                 </div>
 
