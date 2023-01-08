@@ -44,70 +44,73 @@ subtitle:
 <div id="bibtex_display">
     <div class="bibtex_template"> <!--callback="cullabstract(bibtexentry)">-->
         <table>
-            <td width="250" height="100" style="text-align:center">
-                <div class="if img">
-                    <img class="bibtexVar" src="\img\papers\+img+" img width="250" extra="img" />
-                </div>
-            </td>
-            <td>
-                <!-- TITLE -->
-                <div>
-                    <span class="if url">
-                        <a class="bibtexVar" href="+URL+" extra="url">
-                            <span style="text-decoration: underline;" class="title"></span>,
+            <tr>
+                <td width="250" height="100" style="text-align:center">
+                    <div class="if img">
+                        <img class="bibtexVar" src="\img\papers\+img+" img width="250" extra="img" />
+                    </div>
+                </td>
+                <td>
+                    <!-- TITLE -->
+                    <div>
+                        <span class="if url">
+                            <a class="bibtexVar" href="+URL+" extra="url">
+                                <span style="text-decoration: underline;" class="title"></span>,
+                            </a>
+                        </span>
+                        <span class="if !url">
+                            <a class="bibtexVar" href="+URL+" extra="url">
+                                <span style="text-decoration: underline;" class="title"></span>,
+                            </a>
+                        </span>
+                    </div>
+    
+                    <!-- AUTHORS -->
+                    <span class="author"></span>
+    
+                    <!-- DETAILS -->
+                    <div>
+                        <span class="if journal"><em><span class="journal"></span></em>,</span>
+                        <span class="if publisher"><em><span class="publisher"></span></em>,</span>
+                        <span class="if booktitle">In <em><span class="booktitle"></span></em>,</span>
+                        <span class="if address"><span class="address"></span>,</span>
+                        <span class="if month"><span class="month"></span>,</span>
+                        <span class="if year"><span class="year"></span>.</span>
+                        <span class="if note"><span class="note"></span></span>
+                        <span class="if award"><span style="color:red" class="award"></span></span>
+                    </div>
+    
+                    <!-- COLLAPSABLES -->
+                    <div>
+                        <!-- project page link -->
+                        <span class="if projecturl">
+                            <a class="bibtexVar"  href="+PROJECTURL+" extra="projecturl">
+                                [Project Page]
+                            </a>
+                        </span>
+                        
+                        <!-- expand raw bibtex -->
+                        <a class="bibtexVar" role="button" data-toggle="collapse" href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+" extra="BIBTEXKEY" bibtexjs-css-escape>
+                            [Bibtex]
                         </a>
-                    </span>
-                    <span class="if !url">
-                        <a class="bibtexVar" href="+URL+" extra="url">
-                            <span style="text-decoration: underline;" class="title"></span>,
-                        </a>
-                    </span>
-                </div>
-
-                <!-- AUTHORS -->
-                <span class="author"></span>
-
-                <!-- DETAILS -->
-                <div>
-                    <span class="if journal"><em><span class="journal"></span></em>,</span>
-                    <span class="if publisher"><em><span class="publisher"></span></em>,</span>
-                    <span class="if booktitle">In <em><span class="booktitle"></span></em>,</span>
-                    <span class="if address"><span class="address"></span>,</span>
-                    <span class="if month"><span class="month"></span>,</span>
-                    <span class="if year"><span class="year"></span>.</span>
-                    <span class="if note"><span class="note"></span></span>
-                    <span class="if award"><span style="color:red" class="award"></span></span>
-                </div>
-
-                <!-- COLLAPSABLES -->
-                <div>
-                    <!-- project page link -->
-                    <span class="if projecturl">
-                        <a class="bibtexVar"  href="+PROJECTURL+" extra="projecturl">
-                            [Project Page]
-                        </a>
-                    </span>
-                    
-                    <!-- expand raw bibtex -->
-                    <a class="bibtexVar" role="button" data-toggle="collapse" href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+" extra="BIBTEXKEY" bibtexjs-css-escape>
-                        [Bibtex]
-                    </a>
-
-                    <!-- expand abstract -->
-                    <span class="if abstract">
-                        <a class="bibtexVar" role="button" data-toggle="collapse" href="#abstract+BIBTEXKEY+" aria-expanded="false" aria-controls="abstract+BIBTEXKEY+" extra="BIBTEXKEY" bibtexjs-css-escape>
-                            [Abstract]
-                        </a>
-                    </span>
-                    
-                    <!-- paper link -->
-                    <span class="if paperurl">
-                        <a class="bibtexVar"  href="+PAPERURL+" extra="paperurl">
-                            [PDF]
-                        </a>
-                    </span>
-                </div>
-            </td>
+    
+                        <!-- expand abstract -->
+                        <span class="if abstract">
+                            <a class="bibtexVar" role="button" data-toggle="collapse" href="#abstract+BIBTEXKEY+" aria-expanded="false" aria-controls="abstract+BIBTEXKEY+" extra="BIBTEXKEY" bibtexjs-css-escape>
+                                [Abstract]
+                            </a>
+                        </span>
+                        
+                        <!-- paper link -->
+                        <span class="if paperurl">
+                            <a class="bibtexVar"  href="+PAPERURL+" extra="paperurl">
+                                [PDF]
+                            </a>
+                        </span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
                 <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
                     <div class="well" style="word-wrap: normal;">
                     <pre><span class="bibtexraw noread" id="citation"></span></pre>
@@ -118,6 +121,8 @@ subtitle:
                     <span  style="word-wrap: normal;" class="abstract"></span>
                     </div>
                 </div>
+            </tr>
+                
         </table>
     </div>
 </div>
