@@ -13,15 +13,13 @@ subtitle:
 			<button type="button" class="btn btn-default" onclick="reset()">Reset</button>
 		</div>
 		<div style="float:left;">
-			<select id="authorselect" class="btn bibtex_search bibtex_author" style="border: 1px solid lightgrey;" search="author">
+			<select id="authorselect" class="btn bibtex_search bibtex_generate_author" style="border: 1px solid lightgrey;" search="author">
 			  <option value="">Search Author</option>
 			</select>
 		</div>
 		<div style="float:left;">
-			<select id="topicselect" class="btn bibtex_search" style="border: 1px solid lightgrey;">
+			<select id="topicselect" class="btn bibtex_search bibtex_generate_tags" search="tags" bibtex_split_by=", " style="border: 1px solid lightgrey;">
 			  <option value="">Search Topic</option>
-			  <!-- Add topic values here -->
-			  <option value="Example topic">Example Topic</option>
 			</select>
 		</div>
 		<div style="float:left;">
