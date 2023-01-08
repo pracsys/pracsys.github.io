@@ -107,7 +107,7 @@ subtitle:
                         </a>
                     </span>
                 </div>
-
+            </td>
                 <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
                     <div class="well" style="word-wrap: normal;">
                     <span  style="word-wrap: normal;" class="bibtexraw noread" id="citation"></span>
@@ -118,9 +118,6 @@ subtitle:
                     <span  style="word-wrap: normal;" class="abstract"></span>
                     </div>
                 </div>
-
-                
-            </td>
         </table>
     </div>
 </div>
