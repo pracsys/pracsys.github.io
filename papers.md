@@ -108,20 +108,17 @@ subtitle:
                     </div>
                 </td>
             </tr>
-            <tr>
-                <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
-                    <div class="well" style="word-wrap: normal;">
-                    <pre><span class="bibtexraw noread" id="citation"></span></pre>
-                    </div>
-                </div>
-                <div class="bibtexVar collapse" id="abstract+BIBTEXKEY+" extra="BIBTEXKEY">
-                    <div class="well">
-                    <span  style="word-wrap: normal;" class="abstract"></span>
-                    </div>
-                </div>
-            </tr>
-                
         </table>
+        <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
+            <div class="well" style="word-wrap: normal;">
+            <pre><span class="bibtexraw noread" id="citation"></span></pre>
+            </div>
+        </div>
+        <div class="bibtexVar collapse" id="abstract+BIBTEXKEY+" extra="BIBTEXKEY">
+            <div class="well">
+            <span  style="word-wrap: normal;" class="abstract"></span>
+            </div>
+        </div>
     </div>
 </div>
 
