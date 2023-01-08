@@ -19,7 +19,7 @@ subtitle:
 		</div>
 		<div style="float:left;">
 			<select id="topicselect" class="btn bibtex_search bibtex_generate_tags" search="tags" bibtex_split_by=", " style="border: 1px solid lightgrey;">
-			  <option value="">Search Topic</option>
+			  <option value="">Search Tags</option>
 			</select>
 		</div>
 		<div style="float:left;">
@@ -75,6 +75,7 @@ subtitle:
                         <span class="if note"><span class="note"></span></span>
                         <span class="if award"><span style="color:red" class="award"></span></span>
                     </div>
+                    <span hidden class="tags"></span>
     
                     <!-- COLLAPSABLES -->
                     <div>
