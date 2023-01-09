@@ -16,28 +16,28 @@ layout: null
   }
 }
 
-.map {
+/* .map {
   background-image: url('/img/map2.png');
   width: 100%;
   height: 300px;
   background-size: cover;
-}
+} */
 
 .pg-btn-container {
   display: flex; 
   justify-content: center;
   padding: 0 10%;
-  height: 480px;
+  height: 200px;
   flex-wrap: wrap;
   align-content: space-between;
 }
 
-.flex-container > a > button {
+.pg-btn-container a button {
   background-color: #f1f1f1;
   width: 200px;
   margin: 10px;
   text-align: center;
-  line-height: 200px;
+  line-height: 150px;
   font-size: 30px;
 }
 
