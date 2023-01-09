@@ -8,21 +8,7 @@ use-site-title: true
 {% include header.html type="page" %}
 
 <head>
-  <style>
-    .small-font {
-      font-size: 50px;
-    }
-  </style>
 
-  <style>
-      button {
-        color: red;
-        background-color: white;
-        font-size: 20px;
-        height: 50px;
-        width: 100px;
-      }
-  </style>
   
 </head>
 
@@ -32,18 +18,18 @@ use-site-title: true
     <div class="jumbotron jumbotron-main">
       <div class="container lab-photo">
         <h1 class="display-4 text-center">
-	  <p style="font-size: big">
-             Physics-aware Research for Autonomous Computational SYStems (PRACSYS) Lab
-	  </p>	
+          <p style="font-size: big">
+              Physics-aware Research for Autonomous Computational SYStems (PRACSYS) Lab
+          </p>	
         </h1>
-      </div>
-      <div class="container map-photo">
       </div>
     </div>
   </div>
   <div class="row">
     <div class="col-lg-offset-2  col-lg-8 text-center">
+      <h3>
         The "Physics-aware Research for Autonomous Computational SYStems” (PRACSYS) Lab at Rutgers University (RU) conducts research in Algorithmic Robotics: Robot Planning, Data-driven Control and Perception. Applications include manipulation, locomotion and navigation, with a focus on novel soft mechanisms and multi-robot problems.
+      </h3>
     </div>
   </div>
 </div>
@@ -57,107 +43,3 @@ use-site-title: true
 </div>
 
 
-	
-
-  <!-- <div class="row">
-    <div class="container">
-      <div class="col-lg-4 main-news">
-        <h1>News</h1>
-        <ul>
-          <li>One paper (Spotlight) got accepted to ECCV 2020!</li>
-          <li>Four papers got accepted to IROS 2020!</li>
-          <li>Two papers (Oral) got accepted to CVPR 2020!</li>
-        </ul>
-      </div>
-      <div class="col-lg-8 main-Highlights">
-        <h1>Highlights</h1>
-      </div>
-    </div>
-  </div>
-</div> -->
-
-<!-- <div class="row">
-  <div class="col-lg-6">
-    <h2>News</h2>
-  </div>
-  <div class="col-lg-6">
-    <h2>Publications</h2>
-  </div>
-</div> -->
-
-<!-- <div class="row">
-  <div class="col-lg-4">
-    <img src="/img/Homepage_Video.gif" alt="Lab logo">
-  </div>
-  <div class="col-lg-8">
-    <p>
-      The Robots Perceiving and Doing (RPAD) Lab at Carnegie Mellon University (CMU) Robotics Institute brings together researchers to address the challenges of developing novel methods for robots to perceive and act in the world.  Our research lies at the intersection of robotics, machine learning, and computer vision.  We develop new methods for robotic perception and control that can allow robots to operate in the messy, cluttered environments of our daily lives. Our main approach is to design new machine learning algorithms to understand environmental changes: how dynamic objects in the environment can move and how to affect the environment to achieve a desired task.
-    </p>
-  </div>
-</div> -->
-
-<!-- <div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | relative_url }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image | relative_url }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
-    </div>
-
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %}
-
-   </article>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %} -->
