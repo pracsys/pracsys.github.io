@@ -5,6 +5,16 @@ layout: null
 @import url("pygment_highlights.css");
 
 /* --- General --- */
+.contact {
+  padding: 0 27%; 
+  text-align:left;
+}
+
+@media only screen and (max-width: 767px) {
+  .contact {
+    padding: 0 15%; 
+  }
+}
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -270,11 +280,6 @@ img {
   font-size: 12px;
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1023px) {
-  .column {
-    width: 50%;
-  }
-}
 @media only screen and (max-width: 767px) {
   .column {
     width: 100%;
