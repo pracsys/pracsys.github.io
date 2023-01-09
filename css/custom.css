@@ -6,13 +6,12 @@
   position: relative;
 }
 
-
 .lab-photo {
   background: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.4) 100%),
     url("/img/Homepage_Video.gif") center center;
   background-size: 100%;
   background-color: white;
-  min-height: 75%;
+  min-height: 500px;
   position: relative;
 }
 @media only screen and (max-width: 900px) {
@@ -26,18 +25,6 @@
     min-height: 300px;
   }
 }
-
-
-.map-photo {
-  background: linear-gradient(to bottom, rgba(0,0,0,0.4) 99%,rgba(0,0,0,0.4) 100%),
-    url("/img/Maps1.png") no-repeat center center;
-  background-size: 100%;
-  background-color: white;
-  min-height: 550px;
-  position: relative;
-}
-
-
 
 .main-news {
   height: 500px;
