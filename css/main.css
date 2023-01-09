@@ -153,15 +153,6 @@ img {
   height: 40px;
 }
 
-@media only screen and (max-width: 767px) {
-	.navbar-custom .navbar-brand-logo img {
-	  height: 30px;
-	  /* -webkit-transition: height .5s ease-in-out;
-	  -moz-transition: height .5s ease-in-out;
-	  transition: height .5s ease-in-out; */
-	}
-}
-
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     padding: 20px 0;
@@ -268,6 +259,24 @@ img {
 }
 
 /* --- Footer --- */
+
+.column {
+  float: left;
+  width: 25%;
+  text-align:center;
+  padding: 10px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .column {
+    width: 50%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .column {
+    width: 100%;
+  }
+}
 
 footer {
   padding: 30px 0;
