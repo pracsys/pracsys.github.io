@@ -259,17 +259,6 @@ img {
 }
 
 /* --- Footer --- */
-
-.row-footer {
-  background-color:black; 
-  color:white;
-  font-size:12px;
-}
-
-.row-footer a {
-  text-decoration: none;
-}
-
 .column {
   float: left;
   width: 25%;
