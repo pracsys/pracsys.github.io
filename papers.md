@@ -111,6 +111,20 @@ subtitle:
                                 [PDF]
                             </a>
                         </span>
+
+                        <!-- poster link -->
+                        <span class="if posterurl">
+                            <a class="bibtexVar"  href="+POSTERURL+" extra="posterurl">
+                                [Poster]
+                            </a>
+                        </span>
+
+                        <!-- Video link -->
+                        <span class="if videourl">
+                            <a class="bibtexVar"  href="+VIDEOURL+" extra="videourl">
+                                [Video]
+                            </a>
+                        </span>
                     </div>
                 </td>
             </tr>
