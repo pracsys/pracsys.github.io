@@ -8,7 +8,7 @@ subtitle:
 <bibtex src="\bib\bibi.bib"></bibtex>
 
 <div class="container-fluid">
-	<div class="searchbar">
+	<div class="searchbar" style="align-self: center;">
 		<div style="float:left;">
 			<button type="button" class="btn btn-default" onclick="reset()">Reset</button>
 		</div>
