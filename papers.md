@@ -56,8 +56,16 @@ subtitle:
                                 <span style="text-decoration: underline;" class="title"></span>,
                             </a>
                         </span>
-                        <span class="if !url">
-                            <span style="text-decoration: underline;" class="title"></span>,
+                        <span class="if !projecturl">
+                            <span class="if paperurl">
+                                <a class="bibtexVar"  href="+PAPERURL+" extra="paperurl">
+                                    <span style="text-decoration: underline;" class="title"></span>,
+                                </a>
+                            </span>
+                            <span class="if !paperurl">
+                                <span style="text-decoration: underline;" class="title"></span>
+                            </span>
+                            
                         </span>
                     </div>
     
