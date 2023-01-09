@@ -65,7 +65,6 @@ subtitle:
                             <span class="if !paperurl">
                                 <span style="text-decoration: underline;" class="title"></span>
                             </span>
-                            
                         </span>
                     </div>
     
