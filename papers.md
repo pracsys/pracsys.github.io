@@ -7,7 +7,7 @@ subtitle:
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 <bibtex src="\bib\bibi.bib"></bibtex>
 
-<div class="container-fluid" style="align-self: center;">
+<div class="container-fluid">
 	<div class="searchbar" >
 		<div style="float:left;">
 			<button type="button" class="btn btn-default" onclick="reset()">Reset</button>
