@@ -51,8 +51,8 @@ subtitle:
                 <td>
                     <!-- TITLE -->
                     <div>
-                        <span class="if url">
-                            <a class="bibtexVar" href="+URL+" extra="url">
+                        <span class="if projecturl">
+                            <a class="bibtexVar"  href="+PROJECTURL+" extra="projecturl">
                                 <span style="text-decoration: underline;" class="title"></span>,
                             </a>
                         </span>
