@@ -267,6 +267,10 @@ img {
   padding: 10px;
 }
 
+.column p {
+  font-size: 12px;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   .column {
     width: 50%;
