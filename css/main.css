@@ -31,6 +31,7 @@ layout: null
 .pg-btn-container {
   padding: 0 10%;
   overflow-y: auto;
+  width: 85%;
 }
 
 .pg-btn-container a button {
@@ -38,8 +39,8 @@ layout: null
   margin: 10px;
   text-align: center;
   text-decoration: none;
-  line-height: 25%;
-  font-size: 12%;
+  line-height: 120px;
+  font-size: 27px;
   background-color: #cc0033;
   border: none;
   color: white;
