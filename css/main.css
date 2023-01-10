@@ -32,6 +32,7 @@ layout: null
   padding: 0 10%;
   overflow-y: auto;
   width: 85%;
+  margin: 10%
 }
 
 .pg-btn-container a button {
