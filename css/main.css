@@ -34,18 +34,23 @@ layout: null
 .pg-btn {
   width: 25%;
   padding: 10px;
+  height: 15%;
+  border-radius: 4px;
+  float: left;
+}
+
+.pg-btn a button {
+  width: 100%;
   text-align: center;
   text-decoration: none;
-  height: 15%;
   font-size: 12%;
   background-color: #cc0033;
   border: none;
   color: white;
   border-radius: 4px;
-  float: left;
 }
 
-.pg-btn-container a button:hover {
+.pg-btn a button:hover {
   background-color: #888888;
 }
 
