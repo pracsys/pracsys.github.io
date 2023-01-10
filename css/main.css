@@ -15,9 +15,8 @@ layout: null
     padding: 0 15%; 
   }
 
-  .pg-btn-container a button {
+  .pg-btn {
     width: 100%;
-
   }
 }
 
@@ -29,19 +28,16 @@ layout: null
 } */
 
 .pg-btn-container {
-  padding: 0 10%;
-  overflow-y: auto;
-  width: 85%;
-  margin: 10%
+  width: 100%;
 }
 
-.pg-btn-container a button {
-  width: 20%;
-  margin: 10px;
+.pg-btn {
+  width: 25%;
+  padding: 10px;
   text-align: center;
   text-decoration: none;
-  line-height: 120px;
-  font-size: 27px;
+  height: 15%;
+  font-size: 12%;
   background-color: #cc0033;
   border: none;
   color: white;
