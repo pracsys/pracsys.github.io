@@ -33,12 +33,20 @@ layout: null
 }
 
 .pg-btn-container a button {
-  background-color: #f1f1f1;
   width: 25%;
   margin: 10px;
   text-align: center;
+  text-decoration: none;
   line-height: 20%;
   font-size: 30px;
+  background-color: #cc0033;
+  border: none;
+  color: white;
+  border-radius: 4px;
+}
+
+.pg-btn-container a button:hover {
+  background-color: #888888;
 }
 
 body {
