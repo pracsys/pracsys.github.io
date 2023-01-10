@@ -79,6 +79,13 @@
   width: auto;
 }
 
+@media only screen and (max-width: 450px) {
+  .member-col img {
+    height: 200px;
+    width: 150px;
+  }
+}
+
 .video_embed {
   margin-top: 5px;
 }
