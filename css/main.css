@@ -27,17 +27,17 @@ layout: null
   display: flex; 
   justify-content: center;
   padding: 0 10%;
-  height: 200px;
+  height: 25%;
   flex-wrap: wrap;
   align-content: space-between;
 }
 
 .pg-btn-container a button {
   background-color: #f1f1f1;
-  width: 200px;
+  width: 25%;
   margin: 10px;
   text-align: center;
-  line-height: 150px;
+  line-height: 20%;
   font-size: 30px;
 }
 
