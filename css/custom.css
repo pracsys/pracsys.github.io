@@ -89,6 +89,14 @@
     width: 150px;
     object-fit: contain;
   }
+
+  .big-grp-name {
+    text-align: center;
+  }
+
+  .grp-name {
+    text-align: center;
+  }
 }
 
 .video_embed {
