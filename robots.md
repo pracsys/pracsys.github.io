@@ -49,11 +49,11 @@ members:
 
 <div class="row">
   {% for big_group in page.members %}
-    <h1> {{big_group.name}} </h1>
+    <h2 class="big-grp-name" style="background-color:#F4F4F4;> {{big_group.name}} </h2>
     {% for group in big_group.list %}
     {% if group.list.size > 0 %}
       {% if group.name %}
-        <h2>{{ group.name }}</h2>
+        <h3 class="grp-name">{{ group.name }}</h3>
       {% endif %}
       {% if group.full %}
       <div class="row member-row">
@@ -84,16 +84,3 @@ members:
     {% endfor %}
   {% endfor %}
 </div>
-
-
-<!-- <h3 id="undergraduate-students">Undergraduate students</h3>
-<ul>
-</ul>
-</div> -->
-
-<!-- <h2 id="collaborators">Collaborators</h2> -->
-<!-- <ul>
-  <li><a href="https://www.cs.cmu.edu/~astein/">Aaron Steinfeld</a></li>
-  <li><a href="https://www.cs.cmu.edu/~kkitani/">Kris Kitani</a></li>
-  <li><a href="http://www.lauravherlant.com/">Laura Herlant</a></li>
-</ul> -->
