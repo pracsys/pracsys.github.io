@@ -25,7 +25,8 @@ layout: null
 
 .pg-btn-container {
   width: 100%;
-  height: 150px;
+  height: 125px;
+  padding: 0% 6%;
 }
 
 .pg-btn {
@@ -41,12 +42,12 @@ layout: null
   height: 100%;
   text-align: center;
   text-decoration: none;
-  font-size: 75%;
+  font-size: 25px;
   background-color: #cc0033;
   border: none;
   color: white;
   border-radius: 4px;
-  font-family: 'Helvetica Neue';
+  font-family: 'Open Sans';
 }
 
 .pg-btn a button:hover {
