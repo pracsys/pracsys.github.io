@@ -122,7 +122,7 @@ members:
         <h3>{{ group.name }}</h3>
       {% endif %}
       {% if group.full %}
-      <div class="row member-row" style="margin:0px 25px;">
+      <div class="member-row">
         {% for member in group.list %}
           <div class="col-xl-3 col-lg-3 col-md-3 text-center col-sm-6 col-xs-6 member-col">
             <a target="_blank" href="{{ member.web_url }}">
@@ -135,12 +135,14 @@ members:
         {% endfor %}
       </div>
       {% else %}
-        <dl style="margin:0px 25px;">
+      <div class="alumni-row">
+        <dl>
           {% for member in group.list %}
             <dt><a> {{member.name}} </a></dt>
             <dd> {{member.bio}} </dd>
           {% endfor %}
         </dl>
+      </div>
       {% endif %}
     <br>
     {% endif %}
