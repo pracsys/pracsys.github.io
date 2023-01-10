@@ -16,12 +16,11 @@ layout: null
   }
 }
 
-/* .map {
-  background-image: url('/img/map2.png');
+.map-img img {
   width: 100%;
   height: 300px;
-  background-size: cover;
-} */
+  object-fit: cover;
+}
 
 .pg-btn-container {
   width: 100%;
