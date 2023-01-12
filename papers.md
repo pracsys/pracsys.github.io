@@ -7,6 +7,8 @@ subtitle:
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 <bibtex src="\bib\bibi.bib"></bibtex>
 
+<a href="bibi.bib" download>Download Full Bibtex</a>
+
 <div class="container-fluid">
 	<div class="searchbar" >
 		<div style="float:left;">
@@ -18,13 +20,13 @@ subtitle:
 			</select>
 		</div>
 		<div style="float:left;">
-			<select id="topicselect" class="btn bibtex_search bibtex_generate_tags" search="tags" bibtex_split_by=", " style="border: 1px solid lightgrey;">
-			  <option value="">Search Tags</option>
+			<select id="topicselect" class="btn bibtex_search bibtex_generate_keywords" search="keywords" bibtex_split_by=", " style="border: 1px solid lightgrey;">
+			  <option value="">Search Keywords</option>
 			</select>
 		</div>
 		<div style="float:left;">
 			<input type="text" class="bibtex_search form-control" id="searchbar" placeholder="Search publications">
-			<span class="help-block">Example: journal 2015 (finds the intersection of the two terms)</span>
+			<span class="help-block">Example: inproceedings ICRA 2022</span>
 		</div>
 	</div>
 </div>
@@ -52,17 +54,17 @@ subtitle:
                     <!-- TITLE -->
                     <div>
                         <span class="if projecturl">
-                            <a class="bibtexVar"  href="+PROJECTURL+" extra="projecturl">
+                            <a class="bibtexVar"  href="+PROJECTURL+" extra="projecturl" target="_blank" rel="noopener noreferrer">
                                 <span style="text-decoration: underline;" class="title"></span>,
                             </a>
                         </span>
                         <span class="if !projecturl">
-                            <span class="if paperurl">
-                                <a class="bibtexVar"  href="+PAPERURL+" extra="paperurl">
+                            <span class="if url">
+                                <a class="bibtexVar"  href="+url+" extra="url" target="_blank" rel="noopener noreferrer">
                                     <span style="text-decoration: underline;" class="title"></span>,
                                 </a>
                             </span>
-                            <span class="if !paperurl">
+                            <span class="if !url">
                                 <span style="text-decoration: underline;" class="title"></span>
                             </span>
                         </span>
@@ -82,13 +84,13 @@ subtitle:
                         <span class="if note"><span class="note"></span></span>
                         <span class="if award"><span style="color:red" class="award"></span></span>
                     </div>
-                    <span hidden class="tags"></span>
+                    <span hidden class="keywords"></span>
     
                     <!-- COLLAPSABLES -->
                     <div>
                         <!-- project page link -->
                         <span class="if projecturl">
-                            <a class="bibtexVar"  href="+PROJECTURL+" extra="projecturl">
+                            <a class="bibtexVar"  href="+PROJECTURL+" extra="projecturl" target="_blank" rel="noopener noreferrer">
                                 [Project Page]
                             </a>
                         </span>
@@ -106,22 +108,22 @@ subtitle:
                         </span>
                         
                         <!-- paper link -->
-                        <span class="if paperurl">
-                            <a class="bibtexVar"  href="+PAPERURL+" extra="paperurl">
+                        <span class="if url">
+                            <a class="bibtexVar"  href="+url+" extra="url" target="_blank" rel="noopener noreferrer">
                                 [PDF]
                             </a>
                         </span>
 
                         <!-- poster link -->
                         <span class="if posterurl">
-                            <a class="bibtexVar"  href="+POSTERURL+" extra="posterurl">
+                            <a class="bibtexVar"  href="+POSTERURL+" extra="posterurl" target="_blank" rel="noopener noreferrer">
                                 [Poster]
                             </a>
                         </span>
 
                         <!-- Video link -->
                         <span class="if videourl">
-                            <a class="bibtexVar"  href="+VIDEOURL+" extra="videourl">
+                            <a class="bibtexVar"  href="+VIDEOURL+" extra="videourl" target="_blank" rel="noopener noreferrer">
                                 [Video]
                             </a>
                         </span>
