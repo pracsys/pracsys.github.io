@@ -7,7 +7,7 @@ subtitle:
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 <bibtex src="\bib\bibi.bib"></bibtex>
 
-<a href="bib\bibi.bib" download>Download Full Bibtex</a>
+<a href="bib\bibi.bib" download="pracsys.bib">Download Full Bibtex</a>
 
 <div class="container-fluid">
 	<div class="searchbar" >
