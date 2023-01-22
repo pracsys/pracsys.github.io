@@ -5,9 +5,9 @@ subtitle:
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
-<bibtex src="\bib\bibi.bib"></bibtex>
+<bibtex src="\bib\pracsys.bib"></bibtex>
 
-<a href="\bib\bibi.bib" download="pracsys.bib">Download Full Bibtex</a>
+<a href="\bib\pracsys.bib" download="pracsys.bib">Download Full Bibtex</a>
 
 <div class="container-fluid">
 	<div class="searchbar" >
@@ -42,7 +42,7 @@ subtitle:
 </div>
 
 <div id="bibtex_display">
-    <div class="bibtex_template"> <!--callback="cullabstract(bibtexentry)">-->
+    <div class="bibtex_template"> ,
         <table>
             <tr>
                 <td width="250" height="100" style="text-align:center">
@@ -69,7 +69,7 @@ subtitle:
                             </span>
                         </span>
                     </div>
-    
+
                     <!-- AUTHORS -->
                     <span class="author"></span>
     
@@ -146,13 +146,5 @@ subtitle:
 
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-<!--<script>
-    function cullabstract(bibtexentry) {
-        var bibtexentry = bibtexentry[0];
-        var span = bibtexentry.getElementById("citation");
-        var text = span.textcontent;
-        text = text.slice(0,text.indexOf("cutafter="));
-        span.textcontent = text;
-    }         
-</script>-->
+
 
