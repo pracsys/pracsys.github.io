@@ -19,12 +19,6 @@
   object-fit: cover;
 }
 
-.lab-photo video {
-  width: 100%;
-  height: 500px;
-  object-fit: cover;
-}
-
 .lab-photo h3 {
   position: absolute;
   top: 50%;
