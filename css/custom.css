@@ -13,7 +13,7 @@
   width: 100%;
 }
 
-.lab-photo img {
+.lab-photo video {
   width: 100%;
   height: 500px;
   object-fit: cover;
