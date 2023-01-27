@@ -29,7 +29,7 @@
   bib: null
   img: ../img/projects/BumdleTrack.gif
   links:
-    '[arXiv]': null
+    '[arXiv]': https://arxiv.org/abs/2108.00516
   short_id: null
   site: https://github.com/wenbowen123/BundleTrack
   title: BundleTrack, 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models (IROS 2021) 
@@ -43,7 +43,7 @@ Below is a simulated example of a Motoman SDA10F robot rearranging cylindrical o
   bib: null
   img: ../img/projects/rearrangement_example.gif
   links:
-    '[arXiv]': null
+    '[arXiv]': https://arxiv.org/abs/2110.02814
   short_id: null
   site: https://github.com/Rui1223/uniform_object_rearrangement
   title: Robot Prehensile Rearrangement in Cluttered and Confined Spaces 
@@ -55,7 +55,7 @@ Below is a simulated example of a Motoman SDA10F robot rearranging cylindrical o
   bib: null
   img: ../img/projects/sim_example.gif
   links:
-    '[arXiv]': null
+    '[arXiv]': https://arxiv.org/abs/2203.10379
   short_id: null
   site: https://github.com/Rui1223/confined_space_rearrangement
   title: Lazy Rearrangement Planning in Confined Spaces
