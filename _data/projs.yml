@@ -23,23 +23,25 @@
   title:  ML4KP, a Machine Learning library with SotA Sampling-based Kinodynamic Planning algorithms
   venue: null
   video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/m-YaRXU1oqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- abs: null
+- abs: Promising results have been achieved recently in category-level manipulation that generalizes across object instances. Nevertheless, it often requires expensive real-world data collection and manual specification of semantic keypoints for each object category and task. Additionally, coarse keypoint predictions and ignoring intermediate action sequences hinder adoption in complex manipulation tasks beyond pick-and-place. This work proposes a novel, category-level manipulation framework that leverages an object-centric, category-level representation and model-free 6 DoF motion tracking. The canonical object representation is learned solely in simulation and then used to parse a category-level, task trajectory from a single demonstration video. The demonstration is reprojected to a target trajectory tailored to a novel object via the canonical representation. During execution, the manipulation horizon is decomposed into longrange, collision-free motion and last-inch manipulation. For the latter part, a category-level behavior cloning (CatBC) method leverages motion tracking to perform closed-loop control. CatBC follows the target trajectory, projected from the demonstration and anchored to a dynamically selected category-level coordinate frame. The frame is automatically selected along the manipulation horizon by a local attention mechanism. This framework allows to teach different manipulation strategies by solely providing a single demonstration, without complicated manual programming. Extensive experiments demonstrate its efficacy in a range of challenging industrial tasks in highprecision assembly, which involve learning complex, long-horizon policies. The process exhibits robustness against uncertainty due to dynamics as well as generalization across object instances and scene configurations.
   authors: Bowen Wen, Kostas Bekris
   award: null
   bib: null
-  img: null
+  img: ../img/projects/BumdleTrack.gif
   links:
     '[arXiv]': null
   short_id: null
   site: https://github.com/wenbowen123/BundleTrack
   title: BundleTrack, 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models (IROS 2021) 
   venue: null
-  video_embed: null
-- abs: null
+  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/bs_kh0glfDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- abs: This research project falls in the domain of uniform-shaped object rearrangement in cluttered and confined workspaces such as shelves, where overhand grasps are not possible. As a result, robot-object and object-object interactions occur frequently and have to be avoided so as to successfully complete a rearrangement task. Therefore, it is a harder setup than the widely-researched tabletop ones, where robot-object and object-object interactions can be simplified or even waived.
+
+Below is a simulated example of a Motoman SDA10F robot rearranging cylindrical objects in a cluttered and confined space (a cubic workspace with transparent glasses). The robot can only access objects from one side of the workspace and the task is to rearrange all the objects so that the objects with the same color are aligned in the same column (similar to a grocery scenario where commercial products of the same category are rearranged to be aligned after customers randomly drop them somewhere). The robotic physics simulator is Pybullet. 
   authors: Rui Wang, Kostas Bekris
   award: null
   bib: null
-  img: ../img/projects/BundleTrack.gif
+  img: ../img/projects/rearrangement_example.gif
   links:
     '[arXiv]': null
   short_id: null
@@ -47,11 +49,11 @@
   title: Robot Prehensile Rearrangement in Cluttered and Confined Spaces 
   venue: null
   video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/ssgiFrM71mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- abs: null
+- abs: This research project tackles a challenging object rearrangement problem where top-down grasps are disallowed in confined workspaces such as shelves or fridges. Therefore, the problem is much harder than the tabletop one where top-down grasps simplify robot-object interactions and waive object-object collisions. Therefore, finding the right sequence of pick-and-place actions with which the objects are rearranged is critical to successfully fulfill the task (avoid collisions, fast computation time and fewer buffers/additional actions to use). Finding such a task sequence require expensive computational resource from both motion planning (compute a single pick-and-place action without incurring undesirable collisions and) and task planning (search the right sequence of such pick-and-place actions). This project, built on top of the previous ICRA work, introduces a lazy evaluation framework to tame the combinatorial challenges of confined spaces rearrangement. It achieves significant speed-ups of computing a solution and can scale up to 16 object, outperforming other state-of-art methods in this domain. 
   authors: Rui Wang, Kostas Bekris
   award: null
   bib: null
-  img: null
+  img: ../img/projects/sim_example.gif
   links:
     '[arXiv]': null
   short_id: null
