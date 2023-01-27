@@ -11,11 +11,8 @@
 #   title: null
 #   venue: null
 #   video_embed: null
-- title: ML4KP, a Machine Learning library with SotA Sampling-based Kinodynamic Planning algorithms 
-  venue: null
-  video_embed:  <iframe width="560" height="315" src="https://www.youtube.com/embed/2g4deZZQzY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - abs: null
-  authors: null
+  authors: Aravind, Edgar Granados, Kostas Bekris
   award: null
   bib: null
   img: null
@@ -23,11 +20,11 @@
     '[arXiv]': null
   short_id: null 
   site: https://github.com/PRX-Kinodynamic/ML4KP?fbclid=IwAR3v8UlAoNsamUtIS57D4qYJH8T5h86Ll9h5tlBWis4ZvWUBODYkuAhj_U0
-  title: BundleTrack, 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models (IROS 2021)
+  title:  ML4KP, a Machine Learning library with SotA Sampling-based Kinodynamic Planning algorithms
   venue: null
   video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/m-YaRXU1oqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - abs: null
-  authors: null
+  authors: Bowen Wen, Kostas Bekris
   award: null
   bib: null
   img: null
@@ -35,23 +32,23 @@
     '[arXiv]': null
   short_id: null
   site: https://github.com/wenbowen123/BundleTrack
-  title: Robot Prehensile Rearrangement in Cluttered and Confined Spaces
+  title: BundleTrack, 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models (IROS 2021) 
   venue: null
   video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/bs_kh0glfDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - abs: null
-  authors: null
+  authors: Rui Wang, Kostas Bekris
   award: null
   bib: null
-  img: null
+  img: ../img/projects/BundleTrack.gif
   links:
     '[arXiv]': null
   short_id: null
   site: https://github.com/Rui1223/uniform_object_rearrangement
-  title: Lazy Rearrangement Planning in Confined Spaces
+  title: Robot Prehensile Rearrangement in Cluttered and Confined Spaces 
   venue: null
   video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/ssgiFrM71mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - abs: null
-  authors: null
+  authors: Rui Wang, Kostas Bekris
   award: null
   bib: null
   img: null
@@ -59,8 +56,8 @@
     '[arXiv]': null
   short_id: null
   site: https://github.com/Rui1223/confined_space_rearrangement
-  title: Kostas Bekris - Title Lessons from the 1st Amazon Picking Challenge and Rutgers' Participation, Aug.2016
-  venue:  AWL Workshop, Aug. 2016
+  title: Lazy Rearrangement Planning in Confined Spaces
+  venue: null
   video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/4nQo2tEp_Q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - abs: How do we imbue robots with the ability to efficiently manipulate unseen objects and transfer relevant skills based on demonstrations? End-to-end learning methods often fail to generalize to novel objects or unseen configurations. Instead, we focus on the task-specific pose relationship between relevant parts of interacting objects. We conjecture that this relationship is a generalizable notion of a manipulation task that can transfer to new objects in the same category; examples include the relationship between the pose of a pan relative to an oven or the pose of a mug relative to a mug rack. We call this task-specific pose relationship “cross-pose” and provide a mathematical definition of this concept. We propose a vision-based system that learns to estimate the cross-pose between two objects for a given manipulation task using learned cross-object correspondences. The estimated cross-pose is then used to guide a downstream motion planner to manipulate the objects into the desired pose relationship (placing a pan into the oven or the mug onto the mug rack). We demonstrate our method’s capability to generalize to unseen objects, in some cases after training on only 10 demonstrations in the real world. Results show that our system achieves state-of-the-art performance in both simulated and real-world experiments across a number of tasks.
   authors: Chuer Pan*, Brian Okorn*, Harry Zhang*, Ben Eisner*, David Held
