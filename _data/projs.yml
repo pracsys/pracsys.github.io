@@ -12,7 +12,7 @@
 #   venue: null
 #   video_embed: null
 - abs: null
-  authors: Aravind, Edgar Granados, Kostas Bekris
+  authors: Aravind Sivaramakrishnan, Edgar Granados, Kostas Bekris
   award: null
   bib: null
   img: null
@@ -34,7 +34,7 @@
   site: https://github.com/wenbowen123/BundleTrack
   title: BundleTrack, 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models (IROS 2021) 
   venue: null
-  video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/bs_kh0glfDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  video_embed: null
 - abs: null
   authors: Rui Wang, Kostas Bekris
   award: null
