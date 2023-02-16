@@ -23,6 +23,12 @@ layout: null
   float: left;
 }
 
+.dir-btn {
+	width: 100%;
+	padding: 40%;
+	height: 100px; 
+}
+
 .pg-btn-container {
   width: 100%;
   height: 100px;
