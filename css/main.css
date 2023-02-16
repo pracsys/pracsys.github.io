@@ -24,9 +24,16 @@ layout: null
 }
 
 .dir-btn {
-	width: 100%;
-	padding: 40%;
-	height: 100px; 
+	width: 20%;
+	padding: 20px 40% 0 40%;
+	height: 40px; 
+	text-align: center;
+	text-decoration: none;
+	font-size: 15px;
+	border: none;
+	color: white;
+	border-radius: 4px;
+	font-family: 'Open Sans';
 }
 
 .pg-btn-container {

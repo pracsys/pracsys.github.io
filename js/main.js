@@ -154,7 +154,7 @@ function copy(dest, source) {
 // for directions on home page
 function show_dir() {
   var x = document.getElementById("dir");
-  if (x.style.display === "none") {
+  if (x.style.display == "none") {
     x.style.display = "block";
   } else {
     x.style.display = "none";
